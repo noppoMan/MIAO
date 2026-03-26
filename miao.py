@@ -471,7 +471,7 @@ def miao_phase1_with_period_shifts(
         return result
 
     shift_summaries = []
-    var_result = pd.read_csv(f"{dataset_path}/var_estimation_results/permute_{permutation_id}.csv")
+    var_result = pd.read_csv(f"{dataset_path}/var_estimation_results/aic/permute_{permutation_id}.csv")
 
     for shift_idx, shift in enumerate(shifts):
         sces = {}
