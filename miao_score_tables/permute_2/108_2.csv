@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-getpelican/pelican -> jekyll/jekyll,-0.9501035250717547,-13.213843245764052
-middleman/middleman -> jekyll/jekyll,-0.5533194966770099,-11.15604724625042
-jekyll/jekyll -> getpelican/pelican,-0.0668779693422655,-7.739929120774278
-middleman/middleman -> getpelican/pelican,0.8197463017099296,22.05667731744144
-jekyll/jekyll -> middleman/middleman,-0.10388376876392176,-8.429349472818675
-getpelican/pelican -> middleman/middleman,0.11491882843081959,2.3352654039267104
+,AMS_ij,normalized_AMS_ij,normalized_last
+getpelican/pelican -> jekyll/jekyll,-0.9501035250717547,-36.791992280765534,-13.213843245764052
+middleman/middleman -> jekyll/jekyll,-0.5533194966770099,-26.04113567564711,-11.15604724625042
+jekyll/jekyll -> getpelican/pelican,-0.0668779693422655,-4.861451315370828,-7.739929120774278
+middleman/middleman -> getpelican/pelican,0.8197463017099296,55.85351390846019,22.05667731744144
+jekyll/jekyll -> middleman/middleman,-0.10388376876392176,-24.16092912643844,-8.429349472818675
+getpelican/pelican -> middleman/middleman,0.11491882843081959,22.78340547257675,2.3352654039267104

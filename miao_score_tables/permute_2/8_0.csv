@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-omab/python-social-auth -> pennersr/django-allauth,-0.7021916773719286,-15.199047509265787
-omab/django-social-auth -> pennersr/django-allauth,-0.536304090216102,-23.315206240418938
-pennersr/django-allauth -> omab/python-social-auth,-0.30278246863670844,-6.049347055897752
-omab/django-social-auth -> omab/python-social-auth,-3.1538830100337725,-49.93296090605107
-pennersr/django-allauth -> omab/django-social-auth,0.21658818530634905,3.66893232686865
-omab/python-social-auth -> omab/django-social-auth,-0.0035441092602671587,-2.797142123961653
+,AMS_ij,normalized_AMS_ij,normalized_last
+omab/python-social-auth -> pennersr/django-allauth,-0.7021916773719286,-36.225723445008825,-15.199047509265787
+omab/django-social-auth -> pennersr/django-allauth,-0.536304090216102,-28.16556990707465,-23.315206240418938
+pennersr/django-allauth -> omab/python-social-auth,-0.30278246863670844,-7.5390938637723535,-6.049347055897752
+omab/django-social-auth -> omab/python-social-auth,-3.1538830100337725,-76.1515262693979,-49.93296090605107
+pennersr/django-allauth -> omab/django-social-auth,0.21658818530634905,13.225899652348815,3.66893232686865
+omab/python-social-auth -> omab/django-social-auth,-0.0035441092602671587,-2.9728648439061534,-2.797142123961653

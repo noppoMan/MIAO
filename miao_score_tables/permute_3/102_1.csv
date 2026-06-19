@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-spring-projects/spring-framework -> apache/tomcat,-0.060957401093677616,8.838579478539716
-apache/struts -> apache/tomcat,0.11676236254376626,5.612947364955603
-apache/tomcat -> spring-projects/spring-framework,0.2327316897235326,3.6061584650338334
-apache/struts -> spring-projects/spring-framework,-0.8773347775859772,-5.7154086786419676
-apache/tomcat -> apache/struts,-0.3557596104077737,-7.07572663845726
-spring-projects/spring-framework -> apache/struts,-0.4686384168655873,-1.2418407143891466
+,AMS_ij,normalized_AMS_ij,normalized_last
+spring-projects/spring-framework -> apache/tomcat,-0.060957401093677616,-0.9162396434555825,8.838579478539716
+apache/struts -> apache/tomcat,0.11676236254376626,1.8428581135437307,5.612947364955603
+apache/tomcat -> spring-projects/spring-framework,0.2327316897235326,4.028009629521492,3.6061584650338334
+apache/struts -> spring-projects/spring-framework,-0.8773347775859772,-15.529743604129914,-5.7154086786419676
+apache/tomcat -> apache/struts,-0.3557596104077737,-13.803004970828736,-7.07572663845726
+spring-projects/spring-framework -> apache/struts,-0.4686384168655873,-21.650511088824963,-1.2418407143891466

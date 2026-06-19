@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-liuchong/awesome-roadmaps -> bregman-arie/devops-exercises,5.780940244653657,75.7285038427736
-kamranahmedse/developer-roadmap -> bregman-arie/devops-exercises,-1.4360185918013275,-1.13669861544622
-bregman-arie/devops-exercises -> liuchong/awesome-roadmaps,0.027949601329056786,2.633374636401766
-kamranahmedse/developer-roadmap -> liuchong/awesome-roadmaps,0.024244062103759612,3.8736253322851666
-bregman-arie/devops-exercises -> kamranahmedse/developer-roadmap,-1.33509462852561,2.27027641335221
-liuchong/awesome-roadmaps -> kamranahmedse/developer-roadmap,14.651130888085804,53.994963831148034
+,AMS_ij,normalized_AMS_ij,normalized_last
+liuchong/awesome-roadmaps -> bregman-arie/devops-exercises,5.780940244653657,353.6663347223673,75.7285038427736
+kamranahmedse/developer-roadmap -> bregman-arie/devops-exercises,-1.4360185918013275,-78.4933140346187,-1.13669861544622
+bregman-arie/devops-exercises -> liuchong/awesome-roadmaps,0.027949601329056786,16.21044794617238,2.633374636401766
+kamranahmedse/developer-roadmap -> liuchong/awesome-roadmaps,0.024244062103759612,6.946799402732191,3.8736253322851666
+bregman-arie/devops-exercises -> kamranahmedse/developer-roadmap,-1.33509462852561,-63.25211211373005,2.27027641335221
+liuchong/awesome-roadmaps -> kamranahmedse/developer-roadmap,14.651130888085804,397.05600851725416,53.994963831148034

@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-pytorch/pytorch -> tensorflow/tensorflow,-4.44238737920285,-5.80258530281592
-chainer/chainer -> tensorflow/tensorflow,-2.570788375584521,5.356523857868548
-tensorflow/tensorflow -> pytorch/pytorch,-0.6029134369776452,-4.117442574030897
-chainer/chainer -> pytorch/pytorch,-0.6507808462353746,8.010383931711274
-tensorflow/tensorflow -> chainer/chainer,-0.21774764719509002,3.4076403393011234
-pytorch/pytorch -> chainer/chainer,5.9045697544997715,16.93089457361973
+,AMS_ij,normalized_AMS_ij,normalized_last
+pytorch/pytorch -> tensorflow/tensorflow,-4.44238737920285,-9.393676774908208,-5.80258530281592
+chainer/chainer -> tensorflow/tensorflow,-2.570788375584521,-9.921402396924254,5.356523857868548
+tensorflow/tensorflow -> pytorch/pytorch,-0.6029134369776452,-3.9601010690494043,-4.117442574030897
+chainer/chainer -> pytorch/pytorch,-0.6507808462353746,-2.6114334163157804,8.010383931711274
+tensorflow/tensorflow -> chainer/chainer,-0.21774764719509002,-0.606463946208077,3.4076403393011234
+pytorch/pytorch -> chainer/chainer,5.9045697544997715,33.215462545889146,16.93089457361973

@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-facebookresearch/detectron2 -> pytorch/vision,-0.1356346510805133,4.311331491624228
-fizyr/keras-retinanet -> pytorch/vision,1.5704036868376892,42.79395756626151
-pytorch/vision -> facebookresearch/detectron2,-0.32579440563412265,-5.473972216446691
-fizyr/keras-retinanet -> facebookresearch/detectron2,-0.544978792621263,-26.87995267482789
-pytorch/vision -> fizyr/keras-retinanet,0.32191812958890054,18.189088007825283
-facebookresearch/detectron2 -> fizyr/keras-retinanet,0.09031331059632697,-4.338220785478191
+,AMS_ij,normalized_AMS_ij,normalized_last
+facebookresearch/detectron2 -> pytorch/vision,-0.1356346510805133,-7.498642048329546,4.311331491624228
+fizyr/keras-retinanet -> pytorch/vision,1.5704036868376892,64.33325237732052,42.79395756626151
+pytorch/vision -> facebookresearch/detectron2,-0.32579440563412265,-13.19581339700065,-5.473972216446691
+fizyr/keras-retinanet -> facebookresearch/detectron2,-0.544978792621263,-23.838187997025315,-26.87995267482789
+pytorch/vision -> fizyr/keras-retinanet,0.32191812958890054,29.95333561226833,18.189088007825283
+facebookresearch/detectron2 -> fizyr/keras-retinanet,0.09031331059632697,6.05055558058439,-4.338220785478191

@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-apollographql/apollo-server -> graphile/postgraphile,0.4068503700915205,0.5143822829629261
-graphql/express-graphql -> graphile/postgraphile,0.6076642852432216,-2.293460813009963
-graphile/postgraphile -> apollographql/apollo-server,-0.10844460832063371,0.4489937646721451
-graphql/express-graphql -> apollographql/apollo-server,1.2986811380237637,15.614189810463289
-graphile/postgraphile -> graphql/express-graphql,0.018228438191798278,-0.3121419262819851
-apollographql/apollo-server -> graphql/express-graphql,0.15397790417659893,5.701948608479876
+,AMS_ij,normalized_AMS_ij,normalized_last
+apollographql/apollo-server -> graphile/postgraphile,0.813700740183041,7.959332622244236,1.0287645659258522
+graphql/express-graphql -> graphile/postgraphile,1.2153285704864432,9.689585637205713,-4.586921626019926
+graphile/postgraphile -> apollographql/apollo-server,-0.21688921664126742,-7.077179782418135,0.8979875293442902
+graphql/express-graphql -> apollographql/apollo-server,2.5973622760475275,55.43871440764874,31.228379620926578
+graphile/postgraphile -> graphql/express-graphql,0.036456876383596556,1.8013658489945035,-0.6242838525639702
+apollographql/apollo-server -> graphql/express-graphql,0.30795580835319786,18.428403197082865,11.403897216959752

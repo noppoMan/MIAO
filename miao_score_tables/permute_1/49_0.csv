@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-appium/appium-inspector -> appium/appium,6.563000669020477,42.85333962623699
-appium/appium-desktop -> appium/appium,-34.78561833694226,-226.8399542551145
-appium/appium -> appium/appium-inspector,-0.6449354820455537,-17.32007088564883
-appium/appium-desktop -> appium/appium-inspector,2.5849180130128966,85.48517569938888
-appium/appium -> appium/appium-desktop,-0.14493887929718346,-9.134356719357722
-appium/appium-inspector -> appium/appium-desktop,-0.6588983328838364,-44.190343551585904
+,AMS_ij,normalized_AMS_ij,normalized_last
+appium/appium-inspector -> appium/appium,6.563000669020477,134.88217832335772,42.85333962623699
+appium/appium-desktop -> appium/appium,-34.78561833694226,-683.096538867511,-226.8399542551145
+appium/appium -> appium/appium-inspector,-0.6449354820455537,-48.2712805551811,-17.32007088564883
+appium/appium-desktop -> appium/appium-inspector,2.5849180130128966,191.0968078857257,85.48517569938888
+appium/appium -> appium/appium-desktop,-0.14493887929718346,-30.72004914076399,-9.134356719357722
+appium/appium-inspector -> appium/appium-desktop,-0.6588983328838364,-133.49991872553295,-44.190343551585904

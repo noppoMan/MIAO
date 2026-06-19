@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-hammerspoon/hammerspoon -> pqrs-org/karabiner-elements,1.607555818152696,17.91811551571616
-tekezo/karabiner -> pqrs-org/karabiner-elements,4.858450848355201,38.38606223547491
-pqrs-org/karabiner-elements -> hammerspoon/hammerspoon,1.1092629166208576,15.677661841191748
-tekezo/karabiner -> hammerspoon/hammerspoon,-5.124098547016585,-59.08179143749596
-pqrs-org/karabiner-elements -> tekezo/karabiner,-0.23590706684986987,-13.493122769769956
-hammerspoon/hammerspoon -> tekezo/karabiner,0.07873679191969989,4.415848045113459
+,AMS_ij,normalized_AMS_ij,normalized_last
+hammerspoon/hammerspoon -> pqrs-org/karabiner-elements,1.607555818152696,31.45013201995916,17.91811551571616
+tekezo/karabiner -> pqrs-org/karabiner-elements,4.858450848355201,94.76032927055766,38.38606223547491
+pqrs-org/karabiner-elements -> hammerspoon/hammerspoon,1.1092629166208576,29.691439516484554,15.677661841191748
+tekezo/karabiner -> hammerspoon/hammerspoon,-5.124098547016585,-136.66104671175572,-59.08179143749596
+pqrs-org/karabiner-elements -> tekezo/karabiner,-0.23590706684986987,-26.45989416730258,-13.493122769769956
+hammerspoon/hammerspoon -> tekezo/karabiner,0.07873679191969989,8.352510218659072,4.415848045113459

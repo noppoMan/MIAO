@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-youzan/vant -> ant-design/ant-design,2.19679753345378,9.984129873236366
-ElemeFE/element -> ant-design/ant-design,-1.350032374666297,-18.93188271605468
-ant-design/ant-design -> youzan/vant,1.359211366442742,16.485188176819328
-ElemeFE/element -> youzan/vant,-3.0957470742067774,-55.14471296474247
-ant-design/ant-design -> ElemeFE/element,-0.09215679576575272,-1.226145924057223
-youzan/vant -> ElemeFE/element,-0.25589515651257666,-16.797968292331976
+,AMS_ij,normalized_AMS_ij,normalized_last
+youzan/vant -> ant-design/ant-design,2.19679753345378,43.17910773035808,9.984129873236366
+ElemeFE/element -> ant-design/ant-design,-1.350032374666297,-30.40034682073238,-18.93188271605468
+ant-design/ant-design -> youzan/vant,1.359211366442742,45.83401662932923,16.485188176819328
+ElemeFE/element -> youzan/vant,-3.0957470742067774,-100.33305076470333,-55.14471296474247
+ant-design/ant-design -> ElemeFE/element,-0.09215679576575272,-11.846712025709419,-1.226145924057223
+youzan/vant -> ElemeFE/element,-0.25589515651257666,-33.43231986431995,-16.797968292331976

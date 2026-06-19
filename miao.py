@@ -64,7 +64,7 @@ def get_unique_idx(db):
     return gen_idx_(osss)
 
 def gen_idx_(oss_names):
-    return ",".join([oss.split("/")[1] for oss in oss_names])
+    return ",".join([oss for oss in oss_names])
 
 class AutoDetectTmsError(Exception):
     """
@@ -448,6 +448,7 @@ def miao_phase1_with_period_shifts(
     dataset_path: str = "./",
     irf_k: int = 200,
     select_best_shift: bool = True,
+    ic: str = "aic",
 ) -> List[Dict[str, List[float]]]:
     """
     This function performs a MIAO Phase 1 and outputs the SCE (Shock Cumulative Effect) for $A_i -> A_j$.
@@ -471,7 +472,7 @@ def miao_phase1_with_period_shifts(
         return result
 
     shift_summaries = []
-    var_result = pd.read_csv(f"{dataset_path}/var_estimation_results/aic/permute_{permutation_id}.csv")
+    var_result = pd.read_csv(f"{dataset_path}/var_estimation_results/{ic}/permute_{permutation_id}.csv")
 
     for shift_idx, shift in enumerate(shifts):
         sces = {}
@@ -485,7 +486,7 @@ def miao_phase1_with_period_shifts(
         resid_traces = []
         
         for Tm in Tms:
-            csv_path = f"{dataset_path}/datasets/preprocessed/permute_{permutation_id}/{shift}/{Tm}/{group_with_sep}.csv"
+            csv_path = f"{dataset_path}/datasets/preprocessed/{ic}/permute_{permutation_id}/{shift}/{Tm}/{group_with_sep}.csv"
             
             if not os.path.exists(csv_path):
                 # print(f"[Error not found] permutation_id: {permutation_id}, shift: {shift}, Tm: {Tm}, group_with_sep: {group_with_sep}")
@@ -539,6 +540,7 @@ def miao_phase1_with_period_shifts(
                     label = f"{left} -> {right}"
                     if label not in sces:
                         sces[label] = []
+                        normalized_sces[label] = []
 
                     if label not in uncertainty_matrix:
                         uncertainty_matrix[label] = []
@@ -560,7 +562,7 @@ def miao_phase1_with_period_shifts(
                     s = X[right.strip()]
 
                     sigma = s.std()
-                    normalized_sces[label] = sce / sigma
+                    normalized_sces[label].append(sce / sigma)
 
                     mad = np.median(np.abs(s - s.median()))
                     mad = 1e-3 if mad == 0 else mad

@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-codeigniter4/CodeIgniter4 -> laravel/framework,-1.369790892915797,-6.273604338032348
-chriskacerguis/codeigniter-restserver -> laravel/framework,2.4769511115409735,3.1008839396675594
-laravel/framework -> codeigniter4/CodeIgniter4,0.2463484911857727,1.23601677018426
-chriskacerguis/codeigniter-restserver -> codeigniter4/CodeIgniter4,0.2873325171850075,2.7109578147208593
-laravel/framework -> chriskacerguis/codeigniter-restserver,-0.013945110879711045,-2.1261798678310395
-codeigniter4/CodeIgniter4 -> chriskacerguis/codeigniter-restserver,-0.09003553346212192,-5.5098322674403
+,AMS_ij,normalized_AMS_ij,normalized_last
+codeigniter4/CodeIgniter4 -> laravel/framework,-2.739581785831594,-26.01189740714762,-12.547208676064695
+chriskacerguis/codeigniter-restserver -> laravel/framework,4.953902223081947,45.49816717104612,6.201767879335119
+laravel/framework -> codeigniter4/CodeIgniter4,0.4926969823715454,12.129194895349434,2.47203354036852
+chriskacerguis/codeigniter-restserver -> codeigniter4/CodeIgniter4,0.574665034370015,14.409209101990928,5.421915629441719
+laravel/framework -> chriskacerguis/codeigniter-restserver,-0.02789022175942209,-3.103387823993023,-4.252359735662079
+codeigniter4/CodeIgniter4 -> chriskacerguis/codeigniter-restserver,-0.18007106692424385,-17.415362667060784,-11.0196645348806

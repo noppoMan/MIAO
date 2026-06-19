@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-linkedin/venice -> apache/cassandra,9.48338771848951,45.935896456612205
-voldemort/voldemort -> apache/cassandra,-9.873548968660549,-46.54137229400882
-apache/cassandra -> linkedin/venice,0.1669820343990342,5.578894835512349
-voldemort/voldemort -> linkedin/venice,0.860974494015857,28.40748070921468
-apache/cassandra -> voldemort/voldemort,-0.5883124328645876,-15.759955449909402
-linkedin/venice -> voldemort/voldemort,-0.4154586682101548,24.226039458988506
+,AMS_ij,normalized_AMS_ij,normalized_last
+linkedin/venice -> apache/cassandra,9.48338771848951,110.91302561548524,45.935896456612205
+voldemort/voldemort -> apache/cassandra,-9.873548968660549,-114.48889167821908,-46.54137229400882
+apache/cassandra -> linkedin/venice,0.1669820343990342,15.983109045988614,5.578894835512349
+voldemort/voldemort -> linkedin/venice,0.860974494015857,82.77236487441688,28.40748070921468
+apache/cassandra -> voldemort/voldemort,-0.5883124328645876,-43.77255100347212,-15.759955449909402
+linkedin/venice -> voldemort/voldemort,-0.4154586682101548,-9.200088946083506,24.226039458988506

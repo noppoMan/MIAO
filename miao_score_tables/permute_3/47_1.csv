@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-nteract/nteract -> microsoft/vscode,-7.001636554828162,-18.326731917190827
-nteract/hydrogen -> microsoft/vscode,-8.766982314721147,-21.03553592345247
-microsoft/vscode -> nteract/nteract,-0.3526253870066077,-3.551350118071809
-nteract/hydrogen -> nteract/nteract,-1.010900577046394,-13.844647674952723
-microsoft/vscode -> nteract/hydrogen,-0.20573852337029297,-2.7090086493398435
-nteract/nteract -> nteract/hydrogen,-0.45202851886161344,-9.968265616113905
+,AMS_ij,normalized_AMS_ij,normalized_last
+nteract/nteract -> microsoft/vscode,-7.001636554828162,-23.37274740225968,-18.326731917190827
+nteract/hydrogen -> microsoft/vscode,-8.766982314721147,-28.40651033744338,-21.03553592345247
+microsoft/vscode -> nteract/nteract,-0.3526253870066077,-9.560435788400405,-3.551350118071809
+nteract/hydrogen -> nteract/nteract,-1.010900577046394,-45.94333912678445,-13.844647674952723
+microsoft/vscode -> nteract/hydrogen,-0.20573852337029297,-10.4222417840759,-2.7090086493398435
+nteract/nteract -> nteract/hydrogen,-0.45202851886161344,-21.316964253235547,-9.968265616113905

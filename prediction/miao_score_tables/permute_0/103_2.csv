@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-plotly/plotly.js -> highcharts/highcharts,0.16903296511245516,1.652039752877037
-apache/echarts -> highcharts/highcharts,8.889042153240155,37.63716734774307
-highcharts/highcharts -> plotly/plotly.js,-0.3936090450013252,-1.1806787448874292
-apache/echarts -> plotly/plotly.js,-1.982219822098733,-15.107108552086402
-highcharts/highcharts -> apache/echarts,0.06194502117302658,3.671738507928986
-plotly/plotly.js -> apache/echarts,-0.44414788247369397,-7.056167652387524
+,AMS_ij,normalized_AMS_ij,normalized_last
+plotly/plotly.js -> highcharts/highcharts,0.3380659302249103,0.5775193803188111,3.304079505754074
+apache/echarts -> highcharts/highcharts,17.77808430648031,117.10885443339598,75.27433469548615
+highcharts/highcharts -> plotly/plotly.js,-0.7872180900026504,-13.043102477543838,-2.3613574897748584
+apache/echarts -> plotly/plotly.js,-3.964439644197466,-63.52648363497737,-30.214217104172803
+highcharts/highcharts -> apache/echarts,0.12389004234605316,6.847886060264416,7.343477015857972
+plotly/plotly.js -> apache/echarts,-0.8882957649473879,-34.71092191238166,-14.112335304775048

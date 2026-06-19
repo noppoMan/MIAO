@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-graysky2/xscreensaver-aerial -> OrangeJedi/Aerial,0.06307954007747618,4.970641495808119
-johncoates/aerial -> OrangeJedi/Aerial,-0.09715683409020079,-11.07658547788652
-OrangeJedi/Aerial -> graysky2/xscreensaver-aerial,0.1778549707822545,6.106612110341045
-johncoates/aerial -> graysky2/xscreensaver-aerial,-0.33609084599198136,-17.826367269779354
-OrangeJedi/Aerial -> johncoates/aerial,-2.1985938540089682,-62.6984039376027
-graysky2/xscreensaver-aerial -> johncoates/aerial,-1.1757269495327969,-27.083145962733113
+,AMS_ij,normalized_AMS_ij,normalized_last
+graysky2/xscreensaver-aerial -> OrangeJedi/Aerial,0.06307954007747618,14.875726960955607,4.970641495808119
+johncoates/aerial -> OrangeJedi/Aerial,-0.09715683409020079,-23.4957178836348,-11.07658547788652
+OrangeJedi/Aerial -> graysky2/xscreensaver-aerial,0.1778549707822545,23.508772717491556,6.106612110341045
+johncoates/aerial -> graysky2/xscreensaver-aerial,-0.33609084599198136,-47.98353211299143,-17.826367269779354
+OrangeJedi/Aerial -> johncoates/aerial,-2.1985938540089682,-133.64668989480168,-62.6984039376027
+graysky2/xscreensaver-aerial -> johncoates/aerial,-1.1757269495327969,-68.08666132820198,-27.083145962733113

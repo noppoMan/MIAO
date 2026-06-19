@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-moxystudio/node-cross-spawn -> lovell/sharp,0.13256501842670917,4.713526191744295
-aheckmann/gm -> lovell/sharp,-0.008880377011130855,6.407333999382724
-lovell/sharp -> moxystudio/node-cross-spawn,-0.04382703546864572,-2.4098091617019346
-aheckmann/gm -> moxystudio/node-cross-spawn,0.24586079669093613,13.64983650466976
-lovell/sharp -> aheckmann/gm,-0.2622400500282551,-12.20248266849158
-moxystudio/node-cross-spawn -> aheckmann/gm,0.1548213817883537,7.529622887496609
+,AMS_ij,normalized_AMS_ij,normalized_last
+moxystudio/node-cross-spawn -> lovell/sharp,0.26513003685341835,19.23390311718175,9.42705238348859
+aheckmann/gm -> lovell/sharp,-0.01776075402226171,-1.162400929820104,12.814667998765447
+lovell/sharp -> moxystudio/node-cross-spawn,-0.08765407093729144,-7.689711174490283,-4.819618323403869
+aheckmann/gm -> moxystudio/node-cross-spawn,0.49172159338187227,46.14445893537018,27.29967300933952
+lovell/sharp -> aheckmann/gm,-0.5244801000565102,-61.77567637709489,-24.40496533698316
+moxystudio/node-cross-spawn -> aheckmann/gm,0.3096427635767074,36.9470268250911,15.059245774993219

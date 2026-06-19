@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-kristerkari/stylelint-scss -> stylelint/stylelint,-0.48666406901996573,-10.548036400177189
-sds/scss-lint -> stylelint/stylelint,-0.9097719116382236,-11.264011714288985
-stylelint/stylelint -> kristerkari/stylelint-scss,-0.2567136800011526,-11.011719210044651
-sds/scss-lint -> kristerkari/stylelint-scss,-0.09918438876324455,-5.140374341401965
-stylelint/stylelint -> sds/scss-lint,-0.07485522504621482,-5.15173431418471
-kristerkari/stylelint-scss -> sds/scss-lint,-0.02760156231951201,-3.535499294486261
+,AMS_ij,normalized_AMS_ij,normalized_last
+kristerkari/stylelint-scss -> stylelint/stylelint,-0.9733281380399315,-20.77415713728758,-21.096072800354378
+sds/scss-lint -> stylelint/stylelint,-1.8195438232764471,-35.8450033461172,-22.52802342857797
+stylelint/stylelint -> kristerkari/stylelint-scss,-0.5134273600023052,-33.12815870564979,-22.023438420089303
+sds/scss-lint -> kristerkari/stylelint-scss,-0.1983687775264891,-13.028586749574513,-10.28074868280393
+stylelint/stylelint -> sds/scss-lint,-0.14971045009242964,-14.370786372165107,-10.30346862836942
+kristerkari/stylelint-scss -> sds/scss-lint,-0.05520312463902402,-6.7163633434776,-7.070998588972522

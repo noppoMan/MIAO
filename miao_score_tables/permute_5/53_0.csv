@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-Semantic-Org/Semantic-UI -> twbs/bootstrap,-0.3852127874516892,-5.968710959859401
-olefredrik/foundationpress -> twbs/bootstrap,-6.044631557649051,-21.571287588946944
-twbs/bootstrap -> Semantic-Org/Semantic-UI,-0.12428919052861745,-2.583356760862258
-olefredrik/foundationpress -> Semantic-Org/Semantic-UI,0.15871711008954115,-0.7263310759473874
-twbs/bootstrap -> olefredrik/foundationpress,-0.14794036346925143,-2.0608957904815943
-Semantic-Org/Semantic-UI -> olefredrik/foundationpress,-0.29909792204937985,-4.62362212338932
+,AMS_ij,normalized_AMS_ij,normalized_last
+Semantic-Org/Semantic-UI -> twbs/bootstrap,-0.3852127874516892,-4.100780197744496,-5.968710959859401
+olefredrik/foundationpress -> twbs/bootstrap,-6.044631557649051,-59.119164721940635,-21.571287588946944
+twbs/bootstrap -> Semantic-Org/Semantic-UI,-0.12428919052861745,-2.0910776486516838,-2.583356760862258
+olefredrik/foundationpress -> Semantic-Org/Semantic-UI,0.15871711008954115,1.7365380858069719,-0.7263310759473874
+twbs/bootstrap -> olefredrik/foundationpress,-0.14794036346925143,-4.587794102778006,-2.0608957904815943
+Semantic-Org/Semantic-UI -> olefredrik/foundationpress,-0.29909792204937985,-11.600507367577523,-4.62362212338932

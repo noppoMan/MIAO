@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-liquidmetal-dev/flintlock -> kubevirt/kubevirt,-1.0115352696248645,-14.702185591528236
-weaveworks/ignite -> kubevirt/kubevirt,-2.6432949337248934,-24.590960402925617
-kubevirt/kubevirt -> liquidmetal-dev/flintlock,-0.025627208127266706,-1.4447664037425905
-weaveworks/ignite -> liquidmetal-dev/flintlock,-0.8014048384282685,-43.33703517304311
-kubevirt/kubevirt -> weaveworks/ignite,0.01648319880478959,0.0673370369225846
-liquidmetal-dev/flintlock -> weaveworks/ignite,-0.36852600409947767,-34.965002753715815
+,AMS_ij,normalized_AMS_ij,normalized_last
+liquidmetal-dev/flintlock -> kubevirt/kubevirt,-1.0115352696248645,-14.346383262531749,-14.702185591528236
+weaveworks/ignite -> kubevirt/kubevirt,-2.6432949337248934,-37.076135424482274,-24.590960402925617
+kubevirt/kubevirt -> liquidmetal-dev/flintlock,-0.025627208127266706,-1.9000871755049824,-1.4447664037425905
+weaveworks/ignite -> liquidmetal-dev/flintlock,-0.8014048384282685,-57.39766509759466,-43.33703517304311
+kubevirt/kubevirt -> weaveworks/ignite,0.01648319880478959,2.0937720300495477,0.0673370369225846
+liquidmetal-dev/flintlock -> weaveworks/ignite,-0.36852600409947767,-53.43051505613363,-34.965002753715815

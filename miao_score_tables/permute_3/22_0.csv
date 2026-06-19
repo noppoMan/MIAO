@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-DLR-RM/stable-baselines3 -> ray-project/ray,3.2568788220732707,51.00209148340201
-hill-a/stable-baselines -> ray-project/ray,12.7598036016166,198.38475695586578
-ray-project/ray -> DLR-RM/stable-baselines3,0.6703689622908305,22.073050916308212
-hill-a/stable-baselines -> DLR-RM/stable-baselines3,-7.585768040465605,-234.16324498900732
-ray-project/ray -> hill-a/stable-baselines,0.1473615527441982,25.848568278027006
-DLR-RM/stable-baselines3 -> hill-a/stable-baselines,-0.2981482194308583,-51.717541729773
+,AMS_ij,normalized_AMS_ij,normalized_last
+DLR-RM/stable-baselines3 -> ray-project/ray,3.2568788220732707,63.516651644738346,51.00209148340201
+hill-a/stable-baselines -> ray-project/ray,12.7598036016166,246.12995713419198,198.38475695586578
+ray-project/ray -> DLR-RM/stable-baselines3,0.6703689622908305,30.603463106672624,22.073050916308212
+hill-a/stable-baselines -> DLR-RM/stable-baselines3,-7.585768040465605,-346.92918431531405,-234.16324498900732
+ray-project/ray -> hill-a/stable-baselines,0.1473615527441982,38.5995060532479,25.848568278027006
+DLR-RM/stable-baselines3 -> hill-a/stable-baselines,-0.2981482194308583,-77.80667808739624,-51.717541729773

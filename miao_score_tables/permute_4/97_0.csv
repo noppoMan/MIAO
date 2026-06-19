@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-apache/commons-io -> google/guava,-1.0474779428205117,-17.816359837899693
-apache/commons-lang -> google/guava,-0.6543171601677997,-7.4291708692929515
-google/guava -> apache/commons-io,-0.1609290105989888,-0.49370037124926497
-apache/commons-lang -> apache/commons-io,-0.259594085172552,-3.6784553990661015
-google/guava -> apache/commons-lang,5.6316410538579,5.924245106500625
-apache/commons-io -> apache/commons-lang,0.5888223235741936,12.572362401859657
+,AMS_ij,normalized_AMS_ij,normalized_last
+apache/commons-io -> google/guava,-1.0474779428205117,-18.61464434745589,-17.816359837899693
+apache/commons-lang -> google/guava,-0.6543171601677997,-27.570151085561058,-7.4291708692929515
+google/guava -> apache/commons-io,-0.1609290105989888,-13.322807181987049,-0.49370037124926497
+apache/commons-lang -> apache/commons-io,-0.259594085172552,-15.393398039945255,-3.6784553990661015
+google/guava -> apache/commons-lang,5.6316410538579,212.86705677229082,5.924245106500625
+apache/commons-io -> apache/commons-lang,0.5888223235741936,15.09074480563783,12.572362401859657

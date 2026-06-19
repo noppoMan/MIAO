@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-puppeteer/puppeteer -> gocolly/colly,0.04152074918605682,5.778040285253957
-seleniumhq/selenium -> gocolly/colly,0.007843922489803357,0.002370358639382033
-gocolly/colly -> puppeteer/puppeteer,2.944207071581458,42.3989354491216
-seleniumhq/selenium -> puppeteer/puppeteer,-0.18329566559748256,-0.10287331949531972
-gocolly/colly -> seleniumhq/selenium,7.315652779263845,79.65949897641985
-puppeteer/puppeteer -> seleniumhq/selenium,-0.9797301871915973,-17.062746302918253
+,AMS_ij,normalized_AMS_ij,normalized_last
+puppeteer/puppeteer -> gocolly/colly,0.08304149837211364,17.351418395208352,11.556080570507914
+seleniumhq/selenium -> gocolly/colly,0.015687844979606715,3.548222752484171,0.004740717278764066
+gocolly/colly -> puppeteer/puppeteer,5.888414143162916,239.8532225320648,84.7978708982432
+seleniumhq/selenium -> puppeteer/puppeteer,-0.3665913311949651,-15.335929518534485,-0.20574663899063944
+gocolly/colly -> seleniumhq/selenium,14.63130555852769,313.76823928414035,159.3189979528397
+puppeteer/puppeteer -> seleniumhq/selenium,-1.9594603743831946,-41.70966742993388,-34.125492605836506

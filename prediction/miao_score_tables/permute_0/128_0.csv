@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-twbs/bootstrap -> ant-design/ant-design,0.25696861669140775,-1.0121882096722619
-mui/material-ui -> ant-design/ant-design,-3.562163749895385,-7.600426811918756
-ant-design/ant-design -> twbs/bootstrap,-0.8349445181545484,-3.087052094817706
-mui/material-ui -> twbs/bootstrap,-1.5496848713926226,-0.5411247510574881
-ant-design/ant-design -> mui/material-ui,0.4397494848868265,2.0551405874429083
-twbs/bootstrap -> mui/material-ui,0.7057627697302853,5.436993733629205
+,AMS_ij,normalized_AMS_ij,normalized_last
+mui/material-ui -> twbs/bootstrap,-3.201405765997362,-32.67442332854851,-1.529639642597382
+ant-design/ant-design -> twbs/bootstrap,-1.1690255008126758,-12.982325233363557,-5.014999973943252
+twbs/bootstrap -> mui/material-ui,1.4540201626472566,24.665942274349444,11.048509225076671
+ant-design/ant-design -> mui/material-ui,1.3861269383792427,23.122014145451956,6.5633470665300715
+twbs/bootstrap -> ant-design/ant-design,0.07183145663700632,0.07842033054983391,-3.2551225522579865
+mui/material-ui -> ant-design/ant-design,-8.242881314000098,-79.31611702747726,-17.52797887549267

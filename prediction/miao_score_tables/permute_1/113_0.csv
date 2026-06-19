@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-vercel/next.js -> tanstack/router,-0.5352368662057416,-20.030150384574753
-remix-run/react-router -> tanstack/router,-1.4974957907398083,-56.35353503919654
-tanstack/router -> vercel/next.js,-3.363285641783423,-19.15249565663325
-remix-run/react-router -> vercel/next.js,-0.9626528133436083,-22.471704964781136
-tanstack/router -> remix-run/react-router,-3.3986742617543433,-29.081452893821826
-vercel/next.js -> remix-run/react-router,-0.610468846821624,-16.025610902513684
+,AMS_ij,normalized_AMS_ij,normalized_last
+vercel/next.js -> tanstack/router,-1.0704737324114832,-35.1270894897039,-40.06030076914951
+remix-run/react-router -> tanstack/router,-2.9949915814796166,-99.92523607836227,-112.70707007839307
+tanstack/router -> vercel/next.js,-6.726571283566846,-132.50298829916147,-38.3049913132665
+remix-run/react-router -> vercel/next.js,-1.9253056266872166,-33.2224834677973,-44.94340992956227
+tanstack/router -> remix-run/react-router,-6.797348523508687,-424.258876793564,-58.16290578764365
+vercel/next.js -> remix-run/react-router,-1.220937693643248,-46.1065065000588,-32.05122180502737

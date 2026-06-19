@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-intellij-rust/intellij-rust -> rust-lang/rust-analyzer,-2.531251629324145,-7.529534541047096
-racer-rust/racer -> rust-lang/rust-analyzer,9.386202401709063,41.26120877282005
-rust-lang/rust-analyzer -> intellij-rust/intellij-rust,-0.40304886734736717,-2.917267938145476
-racer-rust/racer -> intellij-rust/intellij-rust,1.658083059111337,21.604029460656914
-rust-lang/rust-analyzer -> racer-rust/racer,0.5111281188787096,8.681415516878758
-intellij-rust/intellij-rust -> racer-rust/racer,0.23120516237094565,3.722921135680731
+,AMS_ij,normalized_AMS_ij,normalized_last
+intellij-rust/intellij-rust -> rust-lang/rust-analyzer,-5.06250325864829,-54.629831509888845,-15.059069082094192
+racer-rust/racer -> rust-lang/rust-analyzer,18.772404803418127,197.79109704783252,82.5224175456401
+rust-lang/rust-analyzer -> intellij-rust/intellij-rust,-0.8060977346947343,-26.74867766669504,-5.834535876290952
+racer-rust/racer -> intellij-rust/intellij-rust,3.316166118222674,108.33898083521115,43.20805892131383
+rust-lang/rust-analyzer -> racer-rust/racer,1.0222562377574191,54.81921371248385,17.362831033757516
+intellij-rust/intellij-rust -> racer-rust/racer,0.4624103247418913,24.59716238015299,7.445842271361462

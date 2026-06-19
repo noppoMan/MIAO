@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-heptiolabs/eventrouter -> prometheus-operator/prometheus-operator,-0.2816855272474588,23.479870366815565
-kubernetes-retired/heapster -> prometheus-operator/prometheus-operator,2.3946192876324712,50.66043013428983
-prometheus-operator/prometheus-operator -> heptiolabs/eventrouter,0.08484513298607216,11.914584846348724
-kubernetes-retired/heapster -> heptiolabs/eventrouter,0.16436338803067,7.722823347667918
-prometheus-operator/prometheus-operator -> kubernetes-retired/heapster,-0.16734484383202033,0.35164737759907216
-heptiolabs/eventrouter -> kubernetes-retired/heapster,-1.7686993849464074,-136.24476596573123
+,AMS_ij,normalized_AMS_ij,normalized_last
+heptiolabs/eventrouter -> prometheus-operator/prometheus-operator,-0.2816855272474588,-11.67651779334642,23.479870366815565
+kubernetes-retired/heapster -> prometheus-operator/prometheus-operator,2.3946192876324712,63.15009080481695,50.66043013428983
+prometheus-operator/prometheus-operator -> heptiolabs/eventrouter,0.08484513298607216,15.511149009201883,11.914584846348724
+kubernetes-retired/heapster -> heptiolabs/eventrouter,0.16436338803067,27.39682843336555,7.722823347667918
+prometheus-operator/prometheus-operator -> kubernetes-retired/heapster,-0.16734484383202033,-10.512016437258756,0.35164737759907216
+heptiolabs/eventrouter -> kubernetes-retired/heapster,-1.7686993849464074,-135.2598474173525,-136.24476596573123

@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-lltcggie/waifu2x-caffe -> DeadSix27/waifu2x-converter-cpp,-0.6354912119686004,-4.703221219167873
-nagadomi/waifu2x -> DeadSix27/waifu2x-converter-cpp,2.215921952075959,29.026863431699013
-DeadSix27/waifu2x-converter-cpp -> lltcggie/waifu2x-caffe,0.10685444404179761,-1.0893801185641994
-nagadomi/waifu2x -> lltcggie/waifu2x-caffe,-0.7235469273649596,-17.795293891114582
-DeadSix27/waifu2x-converter-cpp -> nagadomi/waifu2x,-1.0158973284739605,-22.01374193019426
-lltcggie/waifu2x-caffe -> nagadomi/waifu2x,-0.3791555325943611,-15.5134733315629
+,AMS_ij,normalized_AMS_ij,normalized_last
+lltcggie/waifu2x-caffe -> DeadSix27/waifu2x-converter-cpp,-1.2709824239372007,-44.18134481727441,-9.406442438335747
+nagadomi/waifu2x -> DeadSix27/waifu2x-converter-cpp,4.431843904151918,192.5155012304822,58.053726863398026
+DeadSix27/waifu2x-converter-cpp -> lltcggie/waifu2x-caffe,0.21370888808359523,9.860428352602185,-2.1787602371283987
+nagadomi/waifu2x -> lltcggie/waifu2x-caffe,-1.4470938547299192,-76.42789077752032,-35.590587782229164
+DeadSix27/waifu2x-converter-cpp -> nagadomi/waifu2x,-2.031794656947921,-114.29781002458563,-44.02748386038852
+lltcggie/waifu2x-caffe -> nagadomi/waifu2x,-0.7583110651887222,-46.7407407848539,-31.0269466631258

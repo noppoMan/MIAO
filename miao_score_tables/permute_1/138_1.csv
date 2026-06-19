@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-NethermindEth/nethermind -> hyperledger/besu,-1.7481719228269688,-62.79794222395421
-ethereum/go-ethereum -> hyperledger/besu,-1.7759331494511548,-54.61549127911156
-hyperledger/besu -> NethermindEth/nethermind,-1.9745811958700394,-51.501625072305615
-ethereum/go-ethereum -> NethermindEth/nethermind,0.23693212965147858,-17.916298849473772
-hyperledger/besu -> ethereum/go-ethereum,-1.5931908103412666,-43.733545511638226
-NethermindEth/nethermind -> ethereum/go-ethereum,-2.5728004039578063,-66.52080416933937
+,AMS_ij,normalized_AMS_ij,normalized_last
+NethermindEth/nethermind -> hyperledger/besu,-1.7604093115589738,-76.29815387540631,-62.79794222395421
+ethereum/go-ethereum -> hyperledger/besu,-1.79098727732329,-75.93287811854206,-54.61549127911156
+hyperledger/besu -> NethermindEth/nethermind,-1.9429573796432718,-84.46907391738829,-51.501625072305615
+ethereum/go-ethereum -> NethermindEth/nethermind,0.24930110522969817,12.046512907831609,-17.916298849473772
+hyperledger/besu -> ethereum/go-ethereum,-1.60874183888449,-59.19079102867604,-43.733545511638226
+NethermindEth/nethermind -> ethereum/go-ethereum,-2.565843586781521,-94.23439460212361,-66.52080416933937

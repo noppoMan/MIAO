@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-opencv/opencv -> scikit-image/scikit-image,-0.11221352184814454,-0.3296729596684066
-davisking/dlib -> scikit-image/scikit-image,0.20275097208586668,5.2812806341968095
-scikit-image/scikit-image -> opencv/opencv,-0.5610244877689327,-1.2584154957705551
-davisking/dlib -> opencv/opencv,4.980510982185444,8.928243525639889
-scikit-image/scikit-image -> davisking/dlib,-0.3252030544614338,-0.5658605174967847
-opencv/opencv -> davisking/dlib,0.38031360211492704,1.4979615757381262
+,AMS_ij,normalized_AMS_ij,normalized_last
+opencv/opencv -> scikit-image/scikit-image,-0.11221352184814454,-2.016486030196427,-0.3296729596684066
+davisking/dlib -> scikit-image/scikit-image,0.20275097208586668,5.718444517524237,5.2812806341968095
+scikit-image/scikit-image -> opencv/opencv,-0.5610244877689327,-7.402857256178392,-1.2584154957705551
+davisking/dlib -> opencv/opencv,4.980510982185444,64.42735145585101,8.928243525639889
+scikit-image/scikit-image -> davisking/dlib,-0.3252030544614338,-12.921679381051032,-0.5658605174967847
+opencv/opencv -> davisking/dlib,0.38031360211492704,13.78086167264756,1.4979615757381262

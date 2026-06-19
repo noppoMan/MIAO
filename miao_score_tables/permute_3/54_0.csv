@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-laravel/envoy -> deployphp/deployer,-3.5403416357105613,-9.13853323421817
-rocketeers/rocketeer -> deployphp/deployer,-0.19554556068375095,1.9475032836224495
-deployphp/deployer -> laravel/envoy,-0.23121057091590713,-0.8623092986493953
-rocketeers/rocketeer -> laravel/envoy,-0.05881787800698967,0.4799280228022739
-deployphp/deployer -> rocketeers/rocketeer,-2.353932500631926,12.156373331037004
-laravel/envoy -> rocketeers/rocketeer,8.015052398126707,45.73450207212326
+,AMS_ij,normalized_AMS_ij,normalized_last
+laravel/envoy -> deployphp/deployer,-3.5403416357105613,-151.00950090628066,-9.13853323421817
+rocketeers/rocketeer -> deployphp/deployer,-0.19554556068375095,-9.247776584964663,1.9475032836224495
+deployphp/deployer -> laravel/envoy,-0.23121057091590713,-30.883308165991387,-0.8623092986493953
+rocketeers/rocketeer -> laravel/envoy,-0.05881787800698967,-6.562824939708591,0.4799280228022739
+deployphp/deployer -> rocketeers/rocketeer,-2.353932500631926,-37.788060075133565,12.156373331037004
+laravel/envoy -> rocketeers/rocketeer,8.015052398126707,157.6074909612934,45.73450207212326

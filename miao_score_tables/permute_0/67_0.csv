@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-aquasecurity/trivy -> bridgecrewio/checkov,-1.3350137323630413,0.11381309706929524
-tfsec/tfsec -> bridgecrewio/checkov,-8.671335086345692,-37.57673464331596
-bridgecrewio/checkov -> aquasecurity/trivy,-0.172518699119198,-2.579951613028041
-tfsec/tfsec -> aquasecurity/trivy,-0.09694645253848734,4.943760593865782
-bridgecrewio/checkov -> tfsec/tfsec,-0.22373238824899402,-5.096668784181027
-aquasecurity/trivy -> tfsec/tfsec,4.529133298154881,34.11961337363525
+,AMS_ij,normalized_AMS_ij,normalized_last
+aquasecurity/trivy -> bridgecrewio/checkov,-1.3350137323630413,-4.452717523602376,0.11381309706929524
+tfsec/tfsec -> bridgecrewio/checkov,-8.671335086345692,-66.63843895322368,-37.57673464331596
+bridgecrewio/checkov -> aquasecurity/trivy,-0.172518699119198,-10.154301812093102,-2.579951613028041
+tfsec/tfsec -> aquasecurity/trivy,-0.09694645253848734,-9.66640443089482,4.943760593865782
+bridgecrewio/checkov -> tfsec/tfsec,-0.22373238824899402,-9.261949625394719,-5.096668784181027
+aquasecurity/trivy -> tfsec/tfsec,4.529133298154881,157.9447276740935,34.11961337363525

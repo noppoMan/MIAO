@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-apache/solr -> elastic/elasticsearch,1.336689464100507,-6.908151491239156
-blevesearch/bleve -> elastic/elasticsearch,-26.638215247957035,-46.99164770283843
-elastic/elasticsearch -> apache/solr,-0.01603212730397703,-2.8637830114426333
-blevesearch/bleve -> apache/solr,-1.864082730051127,-37.664990372189735
-elastic/elasticsearch -> blevesearch/bleve,-0.23333143210243903,-4.324227403261367
-apache/solr -> blevesearch/bleve,0.2574498523471403,-4.550641502403064
+,AMS_ij,normalized_AMS_ij,normalized_last
+apache/solr -> elastic/elasticsearch,1.336689464100507,10.584421983931932,-6.908151491239156
+blevesearch/bleve -> elastic/elasticsearch,-26.638215247957035,-209.35523346981998,-46.99164770283843
+elastic/elasticsearch -> apache/solr,-0.01603212730397703,-0.5937253932681195,-2.8637830114426333
+blevesearch/bleve -> apache/solr,-1.864082730051127,-48.991147932033655,-37.664990372189735
+elastic/elasticsearch -> blevesearch/bleve,-0.23333143210243903,-17.8957627620367,-4.324227403261367
+apache/solr -> blevesearch/bleve,0.2574498523471403,18.01781598446954,-4.550641502403064

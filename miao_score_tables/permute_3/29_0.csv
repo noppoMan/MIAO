@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-typescript-eslint/typescript-eslint -> eslint/eslint,-0.5212948666296789,-7.372641123269383
-palantir/tslint -> eslint/eslint,-0.30817425319871955,-14.995377780933872
-eslint/eslint -> typescript-eslint/typescript-eslint,0.1203301666118112,-0.2511207481539274
-palantir/tslint -> typescript-eslint/typescript-eslint,0.5386021174332258,1.4319820926458913
-eslint/eslint -> palantir/tslint,-0.1396993438106481,-11.856402923896447
-typescript-eslint/typescript-eslint -> palantir/tslint,0.3355297407927115,11.132357516876262
+,AMS_ij,normalized_AMS_ij,normalized_last
+typescript-eslint/typescript-eslint -> eslint/eslint,-0.5212948666296789,-19.077010191947668,-7.372641123269383
+palantir/tslint -> eslint/eslint,-0.30817425319871955,-12.276986254260452,-14.995377780933872
+eslint/eslint -> typescript-eslint/typescript-eslint,0.1203301666118112,2.1960316110005538,-0.2511207481539274
+palantir/tslint -> typescript-eslint/typescript-eslint,0.5386021174332258,13.737227304054722,1.4319820926458913
+eslint/eslint -> palantir/tslint,-0.1396993438106481,-15.715202082433006,-11.856402923896447
+typescript-eslint/typescript-eslint -> palantir/tslint,0.3355297407927115,34.346913146121274,11.132357516876262

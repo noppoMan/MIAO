@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-BlueMap-Minecraft/BlueMap -> webbukkit/dynmap,0.2856308605612857,7.8490535666271875
-overviewer/minecraft-overviewer -> webbukkit/dynmap,-3.0427217123371415,-41.138882636224096
-webbukkit/dynmap -> BlueMap-Minecraft/BlueMap,-0.9472723099547058,0.8480932107612431
-overviewer/minecraft-overviewer -> BlueMap-Minecraft/BlueMap,-2.724469636101099,-34.82568653424051
-webbukkit/dynmap -> overviewer/minecraft-overviewer,0.5529715949523641,10.785927453118438
-BlueMap-Minecraft/BlueMap -> overviewer/minecraft-overviewer,0.30281437560647395,2.39474627230951
+,AMS_ij,normalized_AMS_ij,normalized_last
+BlueMap-Minecraft/BlueMap -> webbukkit/dynmap,0.2856308605612857,12.221692453970022,7.8490535666271875
+overviewer/minecraft-overviewer -> webbukkit/dynmap,-3.0427217123371415,-143.16811888355335,-41.138882636224096
+webbukkit/dynmap -> BlueMap-Minecraft/BlueMap,-0.9472723099547058,-33.792006650917386,0.8480932107612431
+overviewer/minecraft-overviewer -> BlueMap-Minecraft/BlueMap,-2.724469636101099,-127.72057923428486,-34.82568653424051
+webbukkit/dynmap -> overviewer/minecraft-overviewer,0.5529715949523641,45.51380975839658,10.785927453118438
+BlueMap-Minecraft/BlueMap -> overviewer/minecraft-overviewer,0.30281437560647395,21.69355569680449,2.39474627230951

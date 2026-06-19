@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-EleutherAI/gpt-neox -> huggingface/transformers,0.14663529892069915,2.9098234157863114
-eleutherai/gpt-neo -> huggingface/transformers,1.5357014573372596,17.93055520808524
-huggingface/transformers -> EleutherAI/gpt-neox,0.0469751590830689,1.8429161245464205
-eleutherai/gpt-neo -> EleutherAI/gpt-neox,-1.9852392485500419,-22.831923114282134
-huggingface/transformers -> eleutherai/gpt-neo,-0.14965194244284938,-4.375126557164892
-EleutherAI/gpt-neox -> eleutherai/gpt-neo,-0.16379650485624053,-5.500339953806783
+,AMS_ij,normalized_AMS_ij,normalized_last
+EleutherAI/gpt-neox -> huggingface/transformers,0.14663529892069915,2.0881791845782733,2.9098234157863114
+eleutherai/gpt-neo -> huggingface/transformers,1.5357014573372596,24.950009663814317,17.93055520808524
+huggingface/transformers -> EleutherAI/gpt-neox,0.0469751590830689,2.1802043975200838,1.8429161245464205
+eleutherai/gpt-neo -> EleutherAI/gpt-neox,-1.9852392485500419,-32.76836588692581,-22.831923114282134
+huggingface/transformers -> eleutherai/gpt-neo,-0.14965194244284938,-8.989692382147805,-4.375126557164892
+EleutherAI/gpt-neox -> eleutherai/gpt-neo,-0.16379650485624053,-9.989575386334568,-5.500339953806783

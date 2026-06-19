@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-typesense/typesense -> elastic/elasticsearch,3.443615704856342,5.347509744930318
-meilisearch/meilisearch -> elastic/elasticsearch,0.5395661759152303,1.3337428981590693
-elastic/elasticsearch -> typesense/typesense,0.10341567331629738,2.5544090159336035
-meilisearch/meilisearch -> typesense/typesense,-0.7057952769629051,-12.783385269990093
-elastic/elasticsearch -> meilisearch/meilisearch,0.24924618212980693,-2.0998206388755807
-typesense/typesense -> meilisearch/meilisearch,-20.078489045505602,-34.89707490524844
+,AMS_ij,normalized_AMS_ij,normalized_last
+typesense/typesense -> elastic/elasticsearch,3.443615704856342,27.73907865887797,5.347509744930318
+meilisearch/meilisearch -> elastic/elasticsearch,0.5395661759152303,4.075241500496579,1.3337428981590693
+elastic/elasticsearch -> typesense/typesense,0.10341567331629738,5.578885749657402,2.5544090159336035
+meilisearch/meilisearch -> typesense/typesense,-0.7057952769629051,-35.4660456460686,-12.783385269990093
+elastic/elasticsearch -> meilisearch/meilisearch,0.24924618212980693,5.5177983203494225,-2.0998206388755807
+typesense/typesense -> meilisearch/meilisearch,-20.078489045505602,-378.85575066343023,-34.89707490524844

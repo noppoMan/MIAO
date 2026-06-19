@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-eslint/eslint -> prettier/prettier,-2.4999943164296416,-8.914138695033987
-standard/standard -> prettier/prettier,-9.286560408432176e-05,-6.188882462682283
-prettier/prettier -> eslint/eslint,-0.29656530807787795,-6.322295293932371
-standard/standard -> eslint/eslint,0.20162653483447485,0.8889795748983041
-prettier/prettier -> standard/standard,-0.21638261182324872,-0.3784588501316808
-eslint/eslint -> standard/standard,-0.575937021691119,-7.438642561651
+,AMS_ij,normalized_AMS_ij,normalized_last
+eslint/eslint -> prettier/prettier,-2.4999943164296416,-50.88597681127395,-8.914138695033987
+standard/standard -> prettier/prettier,-9.286560408432176e-05,-2.365858568165873,-6.188882462682283
+prettier/prettier -> eslint/eslint,-0.29656530807787795,-11.933820957299563,-6.322295293932371
+standard/standard -> eslint/eslint,0.20162653483447485,8.167723640086933,0.8889795748983041
+prettier/prettier -> standard/standard,-0.21638261182324872,-10.574704198722081,-0.3784588501316808
+eslint/eslint -> standard/standard,-0.575937021691119,-27.22284411889125,-7.438642561651

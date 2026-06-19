@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-mlpack/mlpack -> statsmodels/statsmodels,0.4793935799820501,3.674300585606914
-scikit-learn/scikit-learn -> statsmodels/statsmodels,0.03938758351105523,-0.3203197902634019
-statsmodels/statsmodels -> mlpack/mlpack,-0.6525087624508121,-0.2827145317056994
-scikit-learn/scikit-learn -> mlpack/mlpack,0.5484751267236003,3.527467543648144
-statsmodels/statsmodels -> scikit-learn/scikit-learn,-0.23175149192775457,0.5954148667716128
-mlpack/mlpack -> scikit-learn/scikit-learn,-6.945832313564521,-11.637203632084173
+,AMS_ij,normalized_AMS_ij,normalized_last
+mlpack/mlpack -> statsmodels/statsmodels,0.9139252584941293,4.918250460070577,7.348601171213828
+scikit-learn/scikit-learn -> statsmodels/statsmodels,0.0257722313703418,0.3452758636943617,-0.6406395805268038
+statsmodels/statsmodels -> mlpack/mlpack,-1.903666801375297,-44.21334928130924,-0.5654290634113988
+scikit-learn/scikit-learn -> mlpack/mlpack,1.142802274593434,20.990591051472013,7.054935087296288
+statsmodels/statsmodels -> scikit-learn/scikit-learn,-1.017794124983592,-8.621455552023654,1.1908297335432256
+mlpack/mlpack -> scikit-learn/scikit-learn,-14.461767492188853,-96.09035650072266,-23.274407264168346

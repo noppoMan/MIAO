@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-typesense/typesense -> elastic/elasticsearch,-0.5344978947022676,-2.4473774335252534
-meilisearch/meilisearch -> elastic/elasticsearch,-0.009378833353275141,0.7934606819690722
-elastic/elasticsearch -> typesense/typesense,-0.5295275167651885,-2.275060810052519
-meilisearch/meilisearch -> typesense/typesense,0.029229505263940837,0.9223331386567005
-elastic/elasticsearch -> meilisearch/meilisearch,0.5926264736111759,1.8548075489455036
-typesense/typesense -> meilisearch/meilisearch,0.5452784255839722,0.8782745008706955
+,AMS_ij,normalized_AMS_ij,normalized_last
+typesense/typesense -> elastic/elasticsearch,-1.0689957894045352,-8.143276227027698,-4.894754867050507
+meilisearch/meilisearch -> elastic/elasticsearch,-0.018757666706550283,-0.34567167450938757,1.5869213639381443
+elastic/elasticsearch -> typesense/typesense,-1.059055033530377,-20.70831688825946,-4.550121620105038
+meilisearch/meilisearch -> typesense/typesense,0.058459010527881675,0.6827691276647732,1.844666277313401
+elastic/elasticsearch -> meilisearch/meilisearch,1.1852529472223519,6.445066342589185,3.709615097891007
+typesense/typesense -> meilisearch/meilisearch,1.0905568511679444,5.54541551507755,1.756549001741391

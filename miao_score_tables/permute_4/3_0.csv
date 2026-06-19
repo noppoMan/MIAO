@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-spring-projects/spring-authorization-server -> spring-projects/spring-security,-0.6717666545596839,-5.215487805013106
-spring-attic/spring-security-oauth -> spring-projects/spring-security,-9.76797804767068,-74.09646414407493
-spring-projects/spring-security -> spring-projects/spring-authorization-server,-0.11092676022228327,-2.373778227218336
-spring-attic/spring-security-oauth -> spring-projects/spring-authorization-server,1.8724807117715618,45.88441231661898
-spring-projects/spring-security -> spring-attic/spring-security-oauth,-0.015249097410934304,-1.6894734623699008
-spring-projects/spring-authorization-server -> spring-attic/spring-security-oauth,0.05763078808290688,5.963054519077419
+,AMS_ij,normalized_AMS_ij,normalized_last
+spring-projects/spring-authorization-server -> spring-projects/spring-security,-0.6717666545596839,-10.09524330811908,-5.215487805013106
+spring-attic/spring-security-oauth -> spring-projects/spring-security,-9.76797804767068,-144.08877385335174,-74.09646414407493
+spring-projects/spring-security -> spring-projects/spring-authorization-server,-0.11092676022228327,-6.060857801262964,-2.373778227218336
+spring-attic/spring-security-oauth -> spring-projects/spring-authorization-server,1.8724807117715618,97.99003123142657,45.88441231661898
+spring-projects/spring-security -> spring-attic/spring-security-oauth,-0.015249097410934304,-3.1939306973341712,-1.6894734623699008
+spring-projects/spring-authorization-server -> spring-attic/spring-security-oauth,0.05763078808290688,13.364667706084488,5.963054519077419

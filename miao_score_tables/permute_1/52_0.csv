@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-insin/nwb -> vercel/next.js,-1.0412165382080478,17.734916969846086
-facebook/create-react-app -> vercel/next.js,0.11791950337801227,18.223875025379936
-vercel/next.js -> insin/nwb,-1.2682988604173566,5.443974115300701
-facebook/create-react-app -> insin/nwb,-1.1170844170819905,-17.07520765964089
-vercel/next.js -> facebook/create-react-app,-1.014719555381069,13.38333381875503
-insin/nwb -> facebook/create-react-app,0.20603677549653376,-6.9585094376882
+,AMS_ij,normalized_AMS_ij,normalized_last
+insin/nwb -> vercel/next.js,-1.0412165382080478,-32.520553114115515,17.734916969846086
+facebook/create-react-app -> vercel/next.js,0.11791950337801227,-2.3027385627798984,18.223875025379936
+vercel/next.js -> insin/nwb,-1.2682988604173566,-52.30321300170333,5.443974115300701
+facebook/create-react-app -> insin/nwb,-1.1170844170819905,-55.59253171037302,-17.07520765964089
+vercel/next.js -> facebook/create-react-app,-1.014719555381069,-22.181263824674,13.38333381875503
+insin/nwb -> facebook/create-react-app,0.20603677549653376,2.5391464461715003,-6.9585094376882

@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-dropwizard/dropwizard -> apache/tomee,-2.154519479230169,-12.683351966316437
-spring-projects/spring-boot -> apache/tomee,1.0771673482467083,10.007516675744203
-apache/tomee -> dropwizard/dropwizard,-0.26289986551643046,-6.302337537999385
-spring-projects/spring-boot -> dropwizard/dropwizard,-0.2438949493495782,-1.5002259314592643
-apache/tomee -> spring-projects/spring-boot,6.812946822370595,26.586383639537686
-dropwizard/dropwizard -> spring-projects/spring-boot,-0.7345077835272221,-1.7664809188619883
+,AMS_ij,normalized_AMS_ij,normalized_last
+dropwizard/dropwizard -> apache/tomee,-2.154519479230169,-60.331736260841495,-12.683351966316437
+spring-projects/spring-boot -> apache/tomee,1.0771673482467083,29.71431980234096,10.007516675744203
+apache/tomee -> dropwizard/dropwizard,-0.26289986551643046,-7.564500420246563,-6.302337537999385
+spring-projects/spring-boot -> dropwizard/dropwizard,-0.2438949493495782,-6.988525062398206,-1.5002259314592643
+apache/tomee -> spring-projects/spring-boot,6.812946822370595,83.71379898965819,26.586383639537686
+dropwizard/dropwizard -> spring-projects/spring-boot,-0.7345077835272221,-8.711528101289687,-1.7664809188619883

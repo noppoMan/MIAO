@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-carla-simulator/carla -> commaai/openpilot,-0.18373277611252903,0.2213624453390147
-apolloauto/apollo -> commaai/openpilot,0.05328980328285239,0.43696707237851656
-commaai/openpilot -> carla-simulator/carla,0.06913662754480793,1.8907341471502341
-apolloauto/apollo -> carla-simulator/carla,0.13295079199221957,-0.09856098052952642
-commaai/openpilot -> apolloauto/apollo,5.929329081529771,8.176611366957323
-carla-simulator/carla -> apolloauto/apollo,0.6088586943891061,0.07103457660169593
+,AMS_ij,normalized_AMS_ij,normalized_last
+carla-simulator/carla -> commaai/openpilot,-0.36746555222505806,-25.10355549719843,0.4427248906780294
+apolloauto/apollo -> commaai/openpilot,0.10657960656570478,5.712385670171775,0.8739341447570331
+commaai/openpilot -> carla-simulator/carla,0.13827325508961585,0.2188581509398796,3.7814682943004683
+apolloauto/apollo -> carla-simulator/carla,0.26590158398443914,6.760738126577906,-0.19712196105905283
+commaai/openpilot -> apolloauto/apollo,11.858658163059541,54.80081944937349,16.353222733914645
+carla-simulator/carla -> apolloauto/apollo,1.2177173887782122,5.881587966086039,0.14206915320339186

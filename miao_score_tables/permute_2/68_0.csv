@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-wagmi-dev/wagmi -> NomicFoundation/hardhat,-1.0948460102270001,-2.7311041136117855
-dethcrypto/typechain -> NomicFoundation/hardhat,7.570744958298388,36.67604437486459
-NomicFoundation/hardhat -> wagmi-dev/wagmi,0.20943700250327868,5.369619296821581
-dethcrypto/typechain -> wagmi-dev/wagmi,1.8664009639250234,34.84092847880754
-NomicFoundation/hardhat -> dethcrypto/typechain,-0.07304625671741684,-5.151069812818994
-wagmi-dev/wagmi -> dethcrypto/typechain,0.11050589663910285,14.898720539467389
+,AMS_ij,normalized_AMS_ij,normalized_last
+wagmi-dev/wagmi -> NomicFoundation/hardhat,-1.0948460102270001,-12.204456857734966,-2.7311041136117855
+dethcrypto/typechain -> NomicFoundation/hardhat,7.570744958298388,84.92341467133274,36.67604437486459
+NomicFoundation/hardhat -> wagmi-dev/wagmi,0.20943700250327868,12.595158975569968,5.369619296821581
+dethcrypto/typechain -> wagmi-dev/wagmi,1.8664009639250234,112.58534203490574,34.84092847880754
+NomicFoundation/hardhat -> dethcrypto/typechain,-0.07304625671741684,-12.392646988063031,-5.151069812818994
+wagmi-dev/wagmi -> dethcrypto/typechain,0.11050589663910285,20.154659384132938,14.898720539467389

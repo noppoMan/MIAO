@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-dream-num/univer -> handsontable/handsontable,-0.31513177082137844,-15.412215360971123
-dream-num/luckysheet -> handsontable/handsontable,2.919957576342414,93.70283322154398
-handsontable/handsontable -> dream-num/univer,-12.884208660420438,-152.57607156160392
-dream-num/luckysheet -> dream-num/univer,14.242559248055878,192.34478600036422
-handsontable/handsontable -> dream-num/luckysheet,1.6922835173615824,75.64132672906062
-dream-num/univer -> dream-num/luckysheet,1.1746170123233994,52.18841085829394
+,AMS_ij,normalized_AMS_ij,normalized_last
+dream-num/univer -> handsontable/handsontable,-0.31513177082137844,-16.17442849703708,-15.412215360971123
+dream-num/luckysheet -> handsontable/handsontable,2.919957576342414,163.83730438473617,93.70283322154398
+handsontable/handsontable -> dream-num/univer,-12.884208660420438,-312.549303211743,-152.57607156160392
+dream-num/luckysheet -> dream-num/univer,14.242559248055878,342.37190481719165,192.34478600036422
+handsontable/handsontable -> dream-num/luckysheet,1.6922835173615824,140.463307420236,75.64132672906062
+dream-num/univer -> dream-num/luckysheet,1.1746170123233994,97.39483932235474,52.18841085829394

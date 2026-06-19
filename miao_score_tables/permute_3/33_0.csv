@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-apollographql/rover -> dotansimha/graphql-code-generator,0.21094543819057066,1.9850979386093197
-apollographql/apollo-tooling -> dotansimha/graphql-code-generator,0.7811937705913283,13.965461743523052
-dotansimha/graphql-code-generator -> apollographql/rover,0.7126928234920344,9.175833642524898
-apollographql/apollo-tooling -> apollographql/rover,-1.0982546744191068,-19.596339759332135
-dotansimha/graphql-code-generator -> apollographql/apollo-tooling,0.2135905051259451,9.650561493675243
-apollographql/rover -> apollographql/apollo-tooling,0.07872067984900143,-1.765774429543182
+,AMS_ij,normalized_AMS_ij,normalized_last
+apollographql/rover -> dotansimha/graphql-code-generator,0.21094543819057066,9.38301233318998,1.9850979386093197
+apollographql/apollo-tooling -> dotansimha/graphql-code-generator,0.7811937705913283,36.038251381011946,13.965461743523052
+dotansimha/graphql-code-generator -> apollographql/rover,0.7126928234920344,22.01443512006554,9.175833642524898
+apollographql/apollo-tooling -> apollographql/rover,-1.0982546744191068,-35.93498617519329,-19.596339759332135
+dotansimha/graphql-code-generator -> apollographql/apollo-tooling,0.2135905051259451,20.81876868064119,9.650561493675243
+apollographql/rover -> apollographql/apollo-tooling,0.07872067984900143,6.625999153401042,-1.765774429543182

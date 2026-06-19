@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-tensorflow/tensorflow -> pytorch/pytorch,-0.1519819285684259,-2.672428038688382
-apache/mxnet -> pytorch/pytorch,6.136152634669779,19.1903588151468
-pytorch/pytorch -> tensorflow/tensorflow,-9.681641859195576,-9.070242486680597
-apache/mxnet -> tensorflow/tensorflow,22.439405936459295,25.512539259978183
-pytorch/pytorch -> apache/mxnet,0.2700160433233693,5.447519477914504
-tensorflow/tensorflow -> apache/mxnet,0.4113466592505221,2.983568554676139
+,AMS_ij,normalized_AMS_ij,normalized_last
+tensorflow/tensorflow -> pytorch/pytorch,-0.1519819285684259,-1.3244947194477763,-2.672428038688382
+apache/mxnet -> pytorch/pytorch,6.136152634669779,35.27111390603703,19.1903588151468
+pytorch/pytorch -> tensorflow/tensorflow,-9.681641859195576,-22.593746987950954,-9.070242486680597
+apache/mxnet -> tensorflow/tensorflow,22.439405936459295,48.05826138730146,25.512539259978183
+pytorch/pytorch -> apache/mxnet,0.2700160433233693,5.828722374025734,5.447519477914504
+tensorflow/tensorflow -> apache/mxnet,0.4113466592505221,7.612976819221809,2.983568554676139

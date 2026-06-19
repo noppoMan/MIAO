@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-pi-hole/pi-hole -> AdguardTeam/AdGuardHome,-0.024438639304277567,-6.7542155043994345
-NLnetLabs/unbound -> AdguardTeam/AdGuardHome,0.30140577933757107,-0.8255780310804787
-AdguardTeam/AdGuardHome -> pi-hole/pi-hole,0.06880843398636355,-9.854533773213896
-NLnetLabs/unbound -> pi-hole/pi-hole,-0.31260976567440546,-5.192463904942656
-AdguardTeam/AdGuardHome -> NLnetLabs/unbound,-1.0163605282211625,-21.60077599949498
-pi-hole/pi-hole -> NLnetLabs/unbound,0.5365795692661386,9.185760941160483
+,AMS_ij,normalized_AMS_ij,normalized_last
+pi-hole/pi-hole -> AdguardTeam/AdGuardHome,-0.024438639304277567,-2.9802890421638883,-6.7542155043994345
+NLnetLabs/unbound -> AdguardTeam/AdGuardHome,0.30140577933757107,20.970852911625983,-0.8255780310804787
+AdguardTeam/AdGuardHome -> pi-hole/pi-hole,0.06880843398636355,1.171120942870145,-9.854533773213896
+NLnetLabs/unbound -> pi-hole/pi-hole,-0.31260976567440546,-12.373894867393572,-5.192463904942656
+AdguardTeam/AdGuardHome -> NLnetLabs/unbound,-1.0163605282211625,-55.107119374145185,-21.60077599949498
+pi-hole/pi-hole -> NLnetLabs/unbound,0.5365795692661386,28.97153669006699,9.185760941160483

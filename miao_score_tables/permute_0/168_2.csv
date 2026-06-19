@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-neovim/neovim -> pulsar-edit/pulsar,-0.2074169450916601,-8.833840621091245
-microsoft/vscode -> pulsar-edit/pulsar,0.11847950510022814,1.777528019731365
-pulsar-edit/pulsar -> neovim/neovim,-1.7276898806283536,-30.404391793144914
-microsoft/vscode -> neovim/neovim,-0.163243974344024,-3.165860670093222
-pulsar-edit/pulsar -> microsoft/vscode,-3.0877913133944928,-14.898553884180119
-neovim/neovim -> microsoft/vscode,-4.052601567936612,-19.86431540199032
+,AMS_ij,normalized_AMS_ij,normalized_last
+neovim/neovim -> pulsar-edit/pulsar,-0.2074169450916601,-8.833840621091245,-8.833840621091245
+microsoft/vscode -> pulsar-edit/pulsar,0.11847950510022814,1.777528019731365,1.777528019731365
+pulsar-edit/pulsar -> neovim/neovim,-1.7276898806283536,-30.404391793144914,-30.404391793144914
+microsoft/vscode -> neovim/neovim,-0.163243974344024,-3.165860670093222,-3.165860670093222
+pulsar-edit/pulsar -> microsoft/vscode,-3.0877913133944928,-14.898553884180119,-14.898553884180119
+neovim/neovim -> microsoft/vscode,-4.052601567936612,-19.86431540199032,-19.86431540199032

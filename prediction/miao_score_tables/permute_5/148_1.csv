@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-facebook/docusaurus -> docsifyjs/docsify,-0.01951891649029988,-0.8070254101851921
-mkdocs/mkdocs -> docsifyjs/docsify,-0.07919239967384904,-6.029436539010525
-docsifyjs/docsify -> facebook/docusaurus,-0.7738069162873332,-1.605000054023222
-mkdocs/mkdocs -> facebook/docusaurus,0.8475688973474663,7.73319128933911
-docsifyjs/docsify -> mkdocs/mkdocs,-0.6064636106440227,-11.438304941082306
-facebook/docusaurus -> mkdocs/mkdocs,0.052585382550268955,0.8127085753410849
+,AMS_ij,normalized_AMS_ij,normalized_last
+facebook/docusaurus -> docsifyjs/docsify,-0.03903783298059976,-6.583149463177272,-1.6140508203703843
+mkdocs/mkdocs -> docsifyjs/docsify,-0.15838479934769809,-25.29558754022559,-12.05887307802105
+docsifyjs/docsify -> facebook/docusaurus,-1.5476138325746664,-47.4696552542112,-3.210000108046444
+mkdocs/mkdocs -> facebook/docusaurus,1.6951377946949326,61.95705871347141,15.46638257867822
+docsifyjs/docsify -> mkdocs/mkdocs,-1.2129272212880453,-93.60688380093805,-22.87660988216461
+facebook/docusaurus -> mkdocs/mkdocs,0.10517076510053791,5.689175451692654,1.6254171506821697

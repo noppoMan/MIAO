@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-hashicorp/nomad -> docker-archive/classicswarm,-0.09783656170185383,-0.566216763420498
-kubernetes/kubernetes -> docker-archive/classicswarm,0.572213383934764,3.9374984274803264
-docker-archive/classicswarm -> hashicorp/nomad,-8.005627410281392,-24.179900290600155
-kubernetes/kubernetes -> hashicorp/nomad,-0.4388937230716102,0.3194463911170794
-docker-archive/classicswarm -> kubernetes/kubernetes,-20.731617655282065,-45.26713684393728
-hashicorp/nomad -> kubernetes/kubernetes,-3.6012247196976976,-3.6468251492258417
+,AMS_ij,normalized_AMS_ij,normalized_last
+hashicorp/nomad -> docker-archive/classicswarm,-0.14329992459789637,-4.651535573083026,-0.566216763420498
+kubernetes/kubernetes -> docker-archive/classicswarm,0.5513389754365282,18.72036466978426,3.9374984274803264
+docker-archive/classicswarm -> hashicorp/nomad,-7.691740329399606,-52.46882465554786,-24.179900290600155
+kubernetes/kubernetes -> hashicorp/nomad,-0.42862650202639446,-2.482181165236849,0.3194463911170794
+docker-archive/classicswarm -> kubernetes/kubernetes,-19.829772762628767,-71.37827977549685,-45.26713684393728
+hashicorp/nomad -> kubernetes/kubernetes,-3.708880679307627,-13.289150201574207,-3.6468251492258417

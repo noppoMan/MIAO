@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-protocolbuffers/protobuf -> apache/avro,-1.2998662186970966,-14.30254815229381
-apache/thrift -> apache/avro,0.4143900708067191,3.206113517649108
-apache/avro -> protocolbuffers/protobuf,2.6325789766308416,4.763521488479074
-apache/thrift -> protocolbuffers/protobuf,0.43309567416766115,1.951006880746901
-apache/avro -> apache/thrift,-2.485803111744269,-18.27878449870674
-protocolbuffers/protobuf -> apache/thrift,2.3486925861265484,9.74587394110135
+,AMS_ij,normalized_AMS_ij,normalized_last
+protocolbuffers/protobuf -> apache/avro,-1.2998662186970966,-78.80576844944378,-14.30254815229381
+apache/thrift -> apache/avro,0.4143900708067191,24.81472677832842,3.206113517649108
+apache/avro -> protocolbuffers/protobuf,2.6325789766308416,134.32835293619064,4.763521488479074
+apache/thrift -> protocolbuffers/protobuf,0.43309567416766115,22.584153923847687,1.951006880746901
+apache/avro -> apache/thrift,-2.485803111744269,-77.2664315862467,-18.27878449870674
+protocolbuffers/protobuf -> apache/thrift,2.3486925861265484,74.53088230244411,9.74587394110135

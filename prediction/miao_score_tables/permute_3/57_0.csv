@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-thedevdojo/wave -> filamentphp/filament,2.008108297797582,8.26567661575869
-thedevdojo/voyager -> filamentphp/filament,-0.6507099874232647,-0.7993591109482874
-filamentphp/filament -> thedevdojo/wave,0.04123554826987633,1.8789374851112162
-thedevdojo/voyager -> thedevdojo/wave,-0.10454628672031654,-3.0311501862378347
-filamentphp/filament -> thedevdojo/voyager,-0.006292785942735795,0.17404704744823446
-thedevdojo/wave -> thedevdojo/voyager,0.08197908733608755,5.2366405845495585
+,AMS_ij,normalized_AMS_ij,normalized_last
+thedevdojo/wave -> filamentphp/filament,4.016216595595164,37.84671788363344,16.53135323151738
+thedevdojo/voyager -> filamentphp/filament,-1.3014199748465294,-12.816544829454726,-1.5987182218965748
+filamentphp/filament -> thedevdojo/wave,0.08247109653975267,7.41884939226658,3.7578749702224323
+thedevdojo/voyager -> thedevdojo/wave,-0.2090925734406331,-16.331107173802074,-6.062300372475669
+filamentphp/filament -> thedevdojo/voyager,-0.01258557188547159,-1.4101112153619584,0.3480940948964689
+thedevdojo/wave -> thedevdojo/voyager,0.1639581746721751,18.878055130010864,10.473281169099117

@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-redis/redis -> memcached/memcached,-0.09872800648972715,-3.6255104366038307
-tarantool/tarantool -> memcached/memcached,-0.05977209689505769,-1.027320144045586
-memcached/memcached -> redis/redis,2.6442812178758337,23.24224766767003
-tarantool/tarantool -> redis/redis,0.19024593839240528,2.7044090877202525
-memcached/memcached -> tarantool/tarantool,2.1184774798026256,40.18724303170471
-redis/redis -> tarantool/tarantool,-0.7248724597461307,-6.914471870132127
+,AMS_ij,normalized_AMS_ij,normalized_last
+redis/redis -> memcached/memcached,-0.1974560129794543,-21.7419440185834,-7.251020873207661
+tarantool/tarantool -> memcached/memcached,-0.11954419379011538,-14.656331635548497,-2.054640288091172
+memcached/memcached -> redis/redis,5.288562435751667,144.65401254252933,46.48449533534006
+tarantool/tarantool -> redis/redis,0.38049187678481056,11.734872646445375,5.408818175440505
+memcached/memcached -> tarantool/tarantool,4.236954959605251,96.42549418626673,80.37448606340942
+redis/redis -> tarantool/tarantool,-1.4497449194922614,-37.17555582608583,-13.828943740264254

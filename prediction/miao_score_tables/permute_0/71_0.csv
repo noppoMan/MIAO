@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-bitcoinj/bitcoinj -> libbitcoin/libbitcoin-system,-0.2085411749390848,-1.4700180709573927
-bitcoin/bitcoin -> libbitcoin/libbitcoin-system,0.029889331042641062,-5.48290963680671
-libbitcoin/libbitcoin-system -> bitcoinj/bitcoinj,0.16851844683036202,-5.758961647441982
-bitcoin/bitcoin -> bitcoinj/bitcoinj,0.17865294021037992,-0.5357572663838962
-libbitcoin/libbitcoin-system -> bitcoin/bitcoin,0.01942549077663864,-3.0524040643076606
-bitcoinj/bitcoinj -> bitcoin/bitcoin,-0.12199935041172225,-8.15725100139064
+,AMS_ij,normalized_AMS_ij,normalized_last
+bitcoinj/bitcoinj -> libbitcoin/libbitcoin-system,-0.4170823498781696,-15.996236717930362,-2.9400361419147854
+bitcoin/bitcoin -> libbitcoin/libbitcoin-system,0.059778662085282125,6.532500025888477,-10.96581927361342
+libbitcoin/libbitcoin-system -> bitcoinj/bitcoinj,0.33703689366072404,13.348135083373208,-11.517923294883964
+bitcoin/bitcoin -> bitcoinj/bitcoinj,0.35730588042075984,10.925166504977907,-1.0715145327677924
+libbitcoin/libbitcoin-system -> bitcoin/bitcoin,0.03885098155327728,1.3155641151535664,-6.104808128615321
+bitcoinj/bitcoinj -> bitcoin/bitcoin,-0.2439987008234445,-4.647249266551406,-16.31450200278128

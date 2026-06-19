@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-facebook/react -> emberjs/ember.js,-0.7022737271514954,-12.678600896042111
-angular/angular -> emberjs/ember.js,-0.962069760344944,-6.073583941957756
-emberjs/ember.js -> facebook/react,-2.4728134423991333,-21.90833270576835
-angular/angular -> facebook/react,-1.3351225875833728,-9.936792355432555
-emberjs/ember.js -> angular/angular,-2.932636014843692,-9.583087209403821
-facebook/react -> angular/angular,-5.890974704844298,-28.24173192121594
+,AMS_ij,normalized_AMS_ij,normalized_last
+facebook/react -> emberjs/ember.js,-0.7022737271514954,-18.537794764034462,-12.678600896042111
+angular/angular -> emberjs/ember.js,-0.962069760344944,-19.998822199847275,-6.073583941957756
+emberjs/ember.js -> facebook/react,-2.4728134423991333,-53.257724798375996,-21.90833270576835
+angular/angular -> facebook/react,-1.3351225875833728,-27.3774236028833,-9.936792355432555
+emberjs/ember.js -> angular/angular,-2.932636014843692,-27.14097198816441,-9.583087209403821
+facebook/react -> angular/angular,-5.890974704844298,-54.74021796073076,-28.24173192121594

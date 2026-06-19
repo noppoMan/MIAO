@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-friendica/friendica -> diaspora/diaspora,1.0678474955883988,2.4866945471649053
-mastodon/mastodon -> diaspora/diaspora,1.9765080013026037,4.48146428396724
-diaspora/diaspora -> friendica/friendica,3.8404216632614774,8.018152966427397
-mastodon/mastodon -> friendica/friendica,-0.5719455682805313,-0.8263734186814407
-diaspora/diaspora -> mastodon/mastodon,-0.5675525527754808,-6.986599783439129
-friendica/friendica -> mastodon/mastodon,-3.327645236555385,-2.9510945754834825
+,AMS_ij,normalized_AMS_ij,normalized_last
+friendica/friendica -> diaspora/diaspora,1.1679635419042975,14.64037539099171,2.889345830600657
+mastodon/mastodon -> diaspora/diaspora,1.920503534981596,23.789529456565216,4.194606179194775
+diaspora/diaspora -> friendica/friendica,3.978867709498527,33.09773318899965,8.393880837924149
+mastodon/mastodon -> friendica/friendica,-0.49410652428588864,-4.162724770920079,-0.30473485419064017
+diaspora/diaspora -> mastodon/mastodon,-0.3531090396112038,-5.953322564363378,-6.321830489833532
+friendica/friendica -> mastodon/mastodon,-3.6463574981936695,-32.977880567824656,-3.9654167057792606

@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-google/trax -> huggingface/transformers,-0.8585928611800069,-13.46750397273313
-tensorflow/tensor2tensor -> huggingface/transformers,-6.95114649582537,-60.00802487860456
-huggingface/transformers -> google/trax,-0.34082869873960764,-12.008020766255381
-tensorflow/tensor2tensor -> google/trax,0.06630574244460766,-24.141803278117937
-huggingface/transformers -> tensorflow/tensor2tensor,-0.002582727128738277,-1.8652300667757957
-google/trax -> tensorflow/tensor2tensor,0.10174758349417454,-2.5358055797952828
+,AMS_ij,normalized_AMS_ij,normalized_last
+google/trax -> huggingface/transformers,-0.8585928611800069,-11.019676637482267,-13.46750397273313
+tensorflow/tensor2tensor -> huggingface/transformers,-6.95114649582537,-82.6701604345215,-60.00802487860456
+huggingface/transformers -> google/trax,-0.34082869873960764,-13.079945000619336,-12.008020766255381
+tensorflow/tensor2tensor -> google/trax,0.06630574244460766,2.007384325305445,-24.141803278117937
+huggingface/transformers -> tensorflow/tensor2tensor,-0.002582727128738277,0.12564494290917028,-1.8652300667757957
+google/trax -> tensorflow/tensor2tensor,0.10174758349417454,8.310343358150774,-2.5358055797952828

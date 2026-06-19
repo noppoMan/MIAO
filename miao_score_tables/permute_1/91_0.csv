@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-stimulusjs/stimulus -> fabiospampinato/cash,0.2500323414479183,3.0526907197223574
-jquery/jquery -> fabiospampinato/cash,1.1727346113426176,19.94750861157225
-fabiospampinato/cash -> stimulusjs/stimulus,4.098104873720777,6.228196425158559
-jquery/jquery -> stimulusjs/stimulus,-4.213327020483349,-71.0333876224801
-fabiospampinato/cash -> jquery/jquery,0.8927244770923946,-0.48785483757003534
-stimulusjs/stimulus -> jquery/jquery,-1.6332813836287952,-39.8796135551925
+,AMS_ij,normalized_AMS_ij,normalized_last
+stimulusjs/stimulus -> fabiospampinato/cash,0.22845064612022112,23.24438262850152,1.778733097647909
+jquery/jquery -> fabiospampinato/cash,1.1950288104157964,65.80833775801523,20.00444477333006
+fabiospampinato/cash -> stimulusjs/stimulus,4.478373317236128,198.543306636121,3.982425110189941
+jquery/jquery -> stimulusjs/stimulus,-3.607431788510567,-165.01774329847325,-84.65051426240883
+fabiospampinato/cash -> jquery/jquery,0.952789149819343,93.06080800228736,-1.3256165299686735
+stimulusjs/stimulus -> jquery/jquery,-1.5458141784789272,-161.6353393138195,-35.246972049716305

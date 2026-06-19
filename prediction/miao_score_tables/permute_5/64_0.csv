@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-tesseract-ocr/tesseract -> faustomorales/keras-ocr,0.012590823345737958,0.3437226510071984
-PaddlePaddle/PaddleOCR -> faustomorales/keras-ocr,-0.00766784584094306,-1.479575051671981
-faustomorales/keras-ocr -> tesseract-ocr/tesseract,-3.7208091240870313,-39.40552370192874
-PaddlePaddle/PaddleOCR -> tesseract-ocr/tesseract,0.0006884455122984773,-0.34243187873799946
-faustomorales/keras-ocr -> PaddlePaddle/PaddleOCR,9.621350665655271,24.868514768397752
-tesseract-ocr/tesseract -> PaddlePaddle/PaddleOCR,0.3613838826719769,-1.5880746075894174
+,AMS_ij,normalized_AMS_ij,normalized_last
+tesseract-ocr/tesseract -> faustomorales/keras-ocr,0.025181646691475917,5.721855369523915,0.6874453020143968
+PaddlePaddle/PaddleOCR -> faustomorales/keras-ocr,-0.01533569168188612,-3.973342183102081,-2.959150103343962
+faustomorales/keras-ocr -> tesseract-ocr/tesseract,-7.441618248174063,-162.08030807726303,-78.81104740385749
+PaddlePaddle/PaddleOCR -> tesseract-ocr/tesseract,0.0013768910245969546,0.27404609493419174,-0.6848637574759989
+faustomorales/keras-ocr -> PaddlePaddle/PaddleOCR,19.242701331310542,187.2244280005166,49.737029536795504
+tesseract-ocr/tesseract -> PaddlePaddle/PaddleOCR,0.7227677653439538,6.347830566746833,-3.176149215178835

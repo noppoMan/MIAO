@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-gorhill/ublock -> brave/brave-browser,2.3520296987260236,29.028980128141125
-adblockplus/adblockplus -> brave/brave-browser,-3.123573149085695,-48.83925742309441
-brave/brave-browser -> gorhill/ublock,-2.2242768303717897,-49.61076386725628
-adblockplus/adblockplus -> gorhill/ublock,-0.6838646845533131,4.0353081112070015
-brave/brave-browser -> adblockplus/adblockplus,-0.432970015092823,-6.1201816449929805
-gorhill/ublock -> adblockplus/adblockplus,-0.5414752638452396,-2.3326972811712916
+,AMS_ij,normalized_AMS_ij,normalized_last
+gorhill/ublock -> brave/brave-browser,2.3520296987260236,79.50629816079461,29.028980128141125
+adblockplus/adblockplus -> brave/brave-browser,-3.123573149085695,-78.90189503798285,-48.83925742309441
+brave/brave-browser -> gorhill/ublock,-2.2242768303717897,-73.10544977235564,-49.61076386725628
+adblockplus/adblockplus -> gorhill/ublock,-0.6838646845533131,-38.549764214499,4.0353081112070015
+brave/brave-browser -> adblockplus/adblockplus,-0.432970015092823,-13.426801365035255,-6.1201816449929805
+gorhill/ublock -> adblockplus/adblockplus,-0.5414752638452396,-29.698999579823816,-2.3326972811712916

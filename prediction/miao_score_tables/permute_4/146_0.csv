@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-alacritty/alacritty -> eugeny/tabby,0.24002091131437459,2.397233414387628
-gnome-terminator/terminator -> eugeny/tabby,3.4379724006046417,6.812454579521625
-eugeny/tabby -> alacritty/alacritty,0.5998130010593328,1.1713065890500372
-gnome-terminator/terminator -> alacritty/alacritty,-1.6601340266118023,3.045465919093062
-eugeny/tabby -> gnome-terminator/terminator,0.17196988850793887,-0.3883961490608479
-alacritty/alacritty -> gnome-terminator/terminator,-0.05276730828295828,0.9312922262797266
+,AMS_ij,normalized_AMS_ij,normalized_last
+alacritty/alacritty -> eugeny/tabby,0.48004182262874917,11.314368650107742,4.794466828775256
+gnome-terminator/terminator -> eugeny/tabby,6.875944801209283,200.3661833909204,13.62490915904325
+eugeny/tabby -> alacritty/alacritty,1.1996260021186655,40.32036984788186,2.3426131781000743
+gnome-terminator/terminator -> alacritty/alacritty,-3.3202680532236046,-110.27464841745507,6.090931838186124
+eugeny/tabby -> gnome-terminator/terminator,0.34393977701587775,48.28308910219633,-0.7767922981216958
+alacritty/alacritty -> gnome-terminator/terminator,-0.10553461656591656,-18.76071248480969,1.8625844525594533

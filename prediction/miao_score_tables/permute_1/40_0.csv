@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-carrierwaveuploader/carrierwave -> rails/rails,-1.4983229914714213,-3.306966893225444
-thoughtbot/paperclip -> rails/rails,-0.5462058906614022,-6.008434399528586
-rails/rails -> carrierwaveuploader/carrierwave,-0.05940600604323121,0.37584209112610223
-thoughtbot/paperclip -> carrierwaveuploader/carrierwave,0.5947718322508309,4.819409233674342
-rails/rails -> thoughtbot/paperclip,-0.06975997861617492,-1.1158465998049445
-carrierwaveuploader/carrierwave -> thoughtbot/paperclip,-0.2585492698660171,-0.324124194976105
+,AMS_ij,normalized_AMS_ij,normalized_last
+carrierwaveuploader/carrierwave -> rails/rails,-2.9966459829428427,-21.25072183219387,-6.613933786450888
+thoughtbot/paperclip -> rails/rails,-1.0924117813228045,-9.532266364073402,-12.016868799057171
+rails/rails -> carrierwaveuploader/carrierwave,-0.11881201208646242,-4.234482680909508,0.7516841822522045
+thoughtbot/paperclip -> carrierwaveuploader/carrierwave,1.1895436645016617,45.090194121320586,9.638818467348685
+rails/rails -> thoughtbot/paperclip,-0.13951995723234983,-8.37218287589878,-2.231693199609889
+carrierwaveuploader/carrierwave -> thoughtbot/paperclip,-0.5170985397320342,-34.733170523896796,-0.64824838995221

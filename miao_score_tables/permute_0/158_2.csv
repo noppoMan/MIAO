@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-getredash/redash -> metabase/metabase,9.607051193489443,59.664949674794755
-apache/superset -> metabase/metabase,1.4462384367707297,6.865131111473735
-metabase/metabase -> getredash/redash,0.3493215541002691,8.422304928883639
-apache/superset -> getredash/redash,-0.603861002918269,-26.765949444246484
-metabase/metabase -> apache/superset,-0.9877755482391004,-14.75491986579826
-getredash/redash -> apache/superset,-0.9829105121462705,-37.45406999699431
+,AMS_ij,normalized_AMS_ij,normalized_last
+getredash/redash -> metabase/metabase,9.607051193489443,98.36002681593125,59.664949674794755
+apache/superset -> metabase/metabase,1.4462384367707297,14.868308704951733,6.865131111473735
+metabase/metabase -> getredash/redash,0.3493215541002691,23.60351452609369,8.422304928883639
+apache/superset -> getredash/redash,-0.603861002918269,-49.391355389819516,-26.765949444246484
+metabase/metabase -> apache/superset,-0.9877755482391004,-27.585159526321725,-14.75491986579826
+getredash/redash -> apache/superset,-0.9829105121462705,-28.571003603081312,-37.45406999699431

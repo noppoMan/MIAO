@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-pytorch/text -> facebookresearch/fairseq,-0.7035077922217654,2.1311494534935624
-facebookresearch/pytext -> facebookresearch/fairseq,-1.269417989947514,-33.447878323366496
-facebookresearch/fairseq -> pytorch/text,-0.16671604770484544,-2.8007136026442696
-facebookresearch/pytext -> pytorch/text,0.4594832718582973,17.470159332900078
-facebookresearch/fairseq -> facebookresearch/pytext,-1.36920712062749,-22.016907009926307
-pytorch/text -> facebookresearch/pytext,0.6490489759201268,25.662775344059874
+,AMS_ij,normalized_AMS_ij,normalized_last
+pytorch/text -> facebookresearch/fairseq,-1.4070155844435308,-77.33182407055669,4.262298906987125
+facebookresearch/pytext -> facebookresearch/fairseq,-2.538835979895028,-134.81224823423057,-66.89575664673299
+facebookresearch/fairseq -> pytorch/text,-0.3334320954096909,-66.12447412585547,-5.601427205288539
+facebookresearch/pytext -> pytorch/text,0.9189665437165946,78.72796453169582,34.940318665800156
+facebookresearch/fairseq -> facebookresearch/pytext,-2.73841424125498,-131.3496710681504,-44.03381401985261
+pytorch/text -> facebookresearch/pytext,1.2980979518402536,74.91787075115997,51.32555068811975

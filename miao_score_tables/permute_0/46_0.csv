@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-pt-plugins/PT-depiler -> Jackett/Jackett,6.145913381088616,32.48792209949508
-ronggang/pt-plugin-plus -> Jackett/Jackett,2.041517170122054,6.773797917271248
-Jackett/Jackett -> pt-plugins/PT-depiler,0.13565329037358614,6.225779854914639
-ronggang/pt-plugin-plus -> pt-plugins/PT-depiler,-0.014871435983034136,-1.5072814241088293
-Jackett/Jackett -> ronggang/pt-plugin-plus,0.4563810314923841,4.046959058408199
-pt-plugins/PT-depiler -> ronggang/pt-plugin-plus,2.836232838688337,20.346026891588835
+,AMS_ij,normalized_AMS_ij,normalized_last
+pt-plugins/PT-depiler -> Jackett/Jackett,6.145913381088616,137.90240579351334,32.48792209949508
+ronggang/pt-plugin-plus -> Jackett/Jackett,2.041517170122054,46.351769610241305,6.773797917271248
+Jackett/Jackett -> pt-plugins/PT-depiler,0.13565329037358614,18.46317991580512,6.225779854914639
+ronggang/pt-plugin-plus -> pt-plugins/PT-depiler,-0.014871435983034136,-3.305660447707385,-1.5072814241088293
+Jackett/Jackett -> ronggang/pt-plugin-plus,0.4563810314923841,11.687999148533006,4.046959058408199
+pt-plugins/PT-depiler -> ronggang/pt-plugin-plus,2.836232838688337,73.80284076898337,20.346026891588835

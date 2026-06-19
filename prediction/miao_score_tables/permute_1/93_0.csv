@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-microsoft/TypeScript -> sindresorhus/type-fest,0.06210165446010431,5.238276399916788
-definitelytyped/definitelytyped -> sindresorhus/type-fest,0.010525084658600428,1.001585113055796
-sindresorhus/type-fest -> microsoft/TypeScript,-13.476385233532632,-16.939749382654465
-definitelytyped/definitelytyped -> microsoft/TypeScript,-0.329985704989882,-4.342225522186346
-sindresorhus/type-fest -> definitelytyped/definitelytyped,-1.1256871151881775,7.369110137975082
-microsoft/TypeScript -> definitelytyped/definitelytyped,-6.092524609437669,-15.72378316311649
+,AMS_ij,normalized_AMS_ij,normalized_last
+microsoft/TypeScript -> sindresorhus/type-fest,0.10543205992794191,11.611493039673302,10.476552799833575
+definitelytyped/definitelytyped -> sindresorhus/type-fest,0.01776753418418426,1.91954549827964,2.003170226111592
+sindresorhus/type-fest -> microsoft/TypeScript,-28.816214186440213,-450.6551209513259,-33.87949876530893
+definitelytyped/definitelytyped -> microsoft/TypeScript,-0.727404347480102,-14.242092752530064,-8.684451044372691
+sindresorhus/type-fest -> definitelytyped/definitelytyped,-6.549106799225537,-29.02349090536572,14.738220275950164
+microsoft/TypeScript -> definitelytyped/definitelytyped,-12.574800867527589,-74.18314527201039,-31.44756632623298

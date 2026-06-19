@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-rescript-lang/rescript-compiler -> google/closure-compiler,-0.14398281448749253,-2.3397985679525393
-microsoft/typescript -> google/closure-compiler,0.13124172416612861,-3.0208141352358937
-google/closure-compiler -> rescript-lang/rescript-compiler,0.20144724612860632,2.7614892774757926
-microsoft/typescript -> rescript-lang/rescript-compiler,-1.1375760999197075,-18.267312381553392
-google/closure-compiler -> microsoft/typescript,1.2058398880080872,7.333792851147122
-rescript-lang/rescript-compiler -> microsoft/typescript,0.009992003126322528,1.5866887960175606
+,AMS_ij,normalized_AMS_ij,normalized_last
+rescript-lang/rescript-compiler -> google/closure-compiler,-0.14398281448749253,-5.831484138432883,-2.3397985679525393
+microsoft/typescript -> google/closure-compiler,0.13124172416612861,5.963840779730571,-3.0208141352358937
+google/closure-compiler -> rescript-lang/rescript-compiler,0.20144724612860632,12.457738638550978,2.7614892774757926
+microsoft/typescript -> rescript-lang/rescript-compiler,-1.1375760999197075,-38.91025726773994,-18.267312381553392
+google/closure-compiler -> microsoft/typescript,1.2058398880080872,31.753724256749884,7.333792851147122
+rescript-lang/rescript-compiler -> microsoft/typescript,0.009992003126322528,0.4399897302905644,1.5866887960175606

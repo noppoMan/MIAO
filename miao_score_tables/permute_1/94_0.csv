@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-seleniumhq/selenium -> microlinkhq/metascraper,0.03445238930114971,-1.4313089588644028
-scrapy/scrapy -> microlinkhq/metascraper,0.650845933791893,9.0555310471671
-microlinkhq/metascraper -> seleniumhq/selenium,3.224027181995071,16.455631875622277
-scrapy/scrapy -> seleniumhq/selenium,2.098250102147567,14.766772637879757
-microlinkhq/metascraper -> scrapy/scrapy,-1.4121445818657952,-19.59258812080749
-seleniumhq/selenium -> scrapy/scrapy,0.27270477911831903,3.2499231585706925
+,AMS_ij,normalized_AMS_ij,normalized_last
+seleniumhq/selenium -> microlinkhq/metascraper,0.030510457177597865,1.3898095828030006,-1.2123476738960313
+scrapy/scrapy -> microlinkhq/metascraper,0.6481493092553978,27.281780950723007,8.088115557208775
+microlinkhq/metascraper -> seleniumhq/selenium,3.2871998325703924,57.698550419640014,15.130414430266281
+scrapy/scrapy -> seleniumhq/selenium,2.0063059160735923,36.823726011848215,14.405774365758695
+microlinkhq/metascraper -> scrapy/scrapy,-1.3529651748493405,-41.75039781097092,-17.952282001645422
+seleniumhq/selenium -> scrapy/scrapy,0.23659010626462754,7.977424409047755,2.066729742210133

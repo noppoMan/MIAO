@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-xcpretty/xcpretty -> facebook/xcbuild,-2.3923196000998956,-31.080833706035342
-facebook/xctool -> facebook/xcbuild,-0.5899686074056771,-9.839997051823493
-facebook/xcbuild -> xcpretty/xcpretty,-0.041969744774291634,-4.276675173994038
-facebook/xctool -> xcpretty/xcpretty,-0.14278187115602464,-14.22033168754302
-facebook/xcbuild -> facebook/xctool,-0.011097245876208379,-2.58488202836105
-xcpretty/xcpretty -> facebook/xctool,0.14249736867200674,10.207992739452658
+,AMS_ij,normalized_AMS_ij,normalized_last
+xcpretty/xcpretty -> facebook/xcbuild,-4.784639200199791,-91.73691215599189,-62.161667412070685
+facebook/xctool -> facebook/xcbuild,-1.1799372148113543,-15.179612571601474,-19.679994103646987
+facebook/xcbuild -> xcpretty/xcpretty,-0.08393948954858327,-10.258468598329005,-8.553350347988076
+facebook/xctool -> xcpretty/xcpretty,-0.2855637423120493,-34.73105600630837,-28.44066337508604
+facebook/xcbuild -> facebook/xctool,-0.022194491752416758,-2.964184361368009,-5.1697640567221
+xcpretty/xcpretty -> facebook/xctool,0.2849947373440135,38.456431871843854,20.415985478905316

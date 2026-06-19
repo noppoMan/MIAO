@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-BabylonJS/Babylon.js -> mrdoob/three.js,-7.350214362631381,-16.49665041399343
-playcanvas/engine -> mrdoob/three.js,0.6219584857391347,-0.9658341591038517
-mrdoob/three.js -> BabylonJS/Babylon.js,-1.4316890103561808,-9.458271155249978
-playcanvas/engine -> BabylonJS/Babylon.js,-0.502888079883194,2.7732694471708523
-mrdoob/three.js -> playcanvas/engine,0.7684656269355347,4.256290391716392
-BabylonJS/Babylon.js -> playcanvas/engine,-0.746190129697287,4.694219259023506
+,AMS_ij,normalized_AMS_ij,normalized_last
+BabylonJS/Babylon.js -> mrdoob/three.js,-7.350214362631381,-88.51230705045545,-16.49665041399343
+playcanvas/engine -> mrdoob/three.js,0.6219584857391347,8.897808966505574,-0.9658341591038517
+mrdoob/three.js -> BabylonJS/Babylon.js,-1.4316890103561808,-28.382286206492875,-9.458271155249978
+playcanvas/engine -> BabylonJS/Babylon.js,-0.502888079883194,-15.50176475466496,2.7732694471708523
+mrdoob/three.js -> playcanvas/engine,0.7684656269355347,14.936884537358392,4.256290391716392
+BabylonJS/Babylon.js -> playcanvas/engine,-0.746190129697287,-12.271535605481624,4.694219259023506

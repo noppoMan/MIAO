@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-flairNLP/flair -> huggingface/transformers,-0.4037734975598507,-3.130020784901171
-allenai/allennlp -> huggingface/transformers,-2.2603168328636087,-16.372805425840056
-huggingface/transformers -> flairNLP/flair,-0.1218442085153569,1.022215430137539
-allenai/allennlp -> flairNLP/flair,-0.46676128290247515,-1.8108531230264389
-huggingface/transformers -> allenai/allennlp,0.1266249920425095,1.8654749336904517
-flairNLP/flair -> allenai/allennlp,-0.10011746636422313,-1.7150856898843787
+,AMS_ij,normalized_AMS_ij,normalized_last
+flairNLP/flair -> huggingface/transformers,-0.8075469951197014,-10.381410255496961,-6.260041569802342
+allenai/allennlp -> huggingface/transformers,-4.5206336657272175,-55.368750306142125,-32.74561085168011
+huggingface/transformers -> flairNLP/flair,-0.2436884170307138,-4.043370177870178,2.044430860275078
+allenai/allennlp -> flairNLP/flair,-0.9335225658049503,-17.0098749828838,-3.6217062460528777
+huggingface/transformers -> allenai/allennlp,0.253249984085019,13.797547769500806,3.7309498673809034
+flairNLP/flair -> allenai/allennlp,-0.20023493272844625,-10.951053979889894,-3.4301713797687574

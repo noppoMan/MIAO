@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-histoire-dev/histoire -> storybookjs/storybook,-0.3003149439026957,-1.4955285942188044
-tajo/ladle -> storybookjs/storybook,5.466765405396835,6.205041175103552
-storybookjs/storybook -> histoire-dev/histoire,0.453282669007918,3.0130182270934407
-tajo/ladle -> histoire-dev/histoire,-1.384276642416863,-16.928915549716578
-storybookjs/storybook -> tajo/ladle,0.05422911419444411,0.7153701418878545
-histoire-dev/histoire -> tajo/ladle,-0.4856531871410598,-15.994694493791567
+,AMS_ij,normalized_AMS_ij,normalized_last
+histoire-dev/histoire -> storybookjs/storybook,-0.6006298878053914,-2.5652802970706614,-2.9910571884376087
+tajo/ladle -> storybookjs/storybook,10.93353081079367,51.11955670516877,12.410082350207103
+storybookjs/storybook -> histoire-dev/histoire,0.906565338015836,21.309805717116465,6.026036454186881
+tajo/ladle -> histoire-dev/histoire,-2.768553284833726,-69.65410355485501,-33.857831099433156
+storybookjs/storybook -> tajo/ladle,0.10845822838888822,6.869428713847918,1.430740283775709
+histoire-dev/histoire -> tajo/ladle,-0.9713063742821196,-64.1919294585068,-31.989388987583133

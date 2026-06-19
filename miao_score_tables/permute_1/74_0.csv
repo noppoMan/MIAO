@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-intellij-rust/intellij-rust -> rust-lang/rust-analyzer,-2.4529400319371417,-8.84537123927211
-rust-lang/rls -> rust-lang/rust-analyzer,0.8927086787398256,12.898234012761769
-rust-lang/rust-analyzer -> intellij-rust/intellij-rust,-0.665407082739966,-5.703516650526322
-rust-lang/rls -> intellij-rust/intellij-rust,-1.0956347121727659,-4.354628150027342
-rust-lang/rust-analyzer -> rust-lang/rls,0.30664221429301486,9.413901860493345
-intellij-rust/intellij-rust -> rust-lang/rls,0.2426399872263051,7.517703472198117
+,AMS_ij,normalized_AMS_ij,normalized_last
+intellij-rust/intellij-rust -> rust-lang/rust-analyzer,-2.4529400319371417,-25.469980426846657,-8.84537123927211
+rust-lang/rls -> rust-lang/rust-analyzer,0.8927086787398256,5.030778193002477,12.898234012761769
+rust-lang/rust-analyzer -> intellij-rust/intellij-rust,-0.665407082739966,-21.949262526037895,-5.703516650526322
+rust-lang/rls -> intellij-rust/intellij-rust,-1.0956347121727659,-37.41798361287137,-4.354628150027342
+rust-lang/rust-analyzer -> rust-lang/rls,0.30664221429301486,14.81669833263291,9.413901860493345
+intellij-rust/intellij-rust -> rust-lang/rls,0.2426399872263051,12.222043343931155,7.517703472198117

@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-matteocrippa/awesome-swift -> raywenderlich/swift-style-guide,-0.034052652081724026,-5.108646971763502
-vsouza/awesome-ios -> raywenderlich/swift-style-guide,0.08326113528877063,1.4888335401463195
-raywenderlich/swift-style-guide -> matteocrippa/awesome-swift,-0.066107829367932,-9.80612655174538
-vsouza/awesome-ios -> matteocrippa/awesome-swift,-3.110622647971565,-17.949953318029333
-raywenderlich/swift-style-guide -> vsouza/awesome-ios,-6.795662366307056,-39.81013691445206
-matteocrippa/awesome-swift -> vsouza/awesome-ios,-9.351898334033717,-33.71869417227001
+,AMS_ij,normalized_AMS_ij,normalized_last
+matteocrippa/awesome-swift -> raywenderlich/swift-style-guide,-0.05201455823862686,-4.378912331167109,-5.108646971763502
+vsouza/awesome-ios -> raywenderlich/swift-style-guide,0.06846876250055112,6.189982291720755,1.4888335401463195
+raywenderlich/swift-style-guide -> matteocrippa/awesome-swift,-0.28863819409367547,-2.2834734465974864,-9.80612655174538
+vsouza/awesome-ios -> matteocrippa/awesome-swift,-3.2866174715426726,-113.10915977249716,-17.949953318029333
+raywenderlich/swift-style-guide -> vsouza/awesome-ios,-7.011208614159919,-150.46019124559785,-39.81013691445206
+matteocrippa/awesome-swift -> vsouza/awesome-ios,-9.543293426967177,-208.06722116109526,-33.71869417227001

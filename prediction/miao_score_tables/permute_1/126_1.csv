@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-apache/openwhisk -> aws/chalice,-1.1569060826352229,-24.094361090110215
-serverless/serverless -> aws/chalice,-0.0407334042490618,-1.3829414656959587
-aws/chalice -> apache/openwhisk,-0.38661981283693503,-17.243737989119946
-serverless/serverless -> apache/openwhisk,-0.00817808460303912,-0.3257176235829425
-aws/chalice -> serverless/serverless,-1.2178990428586551,-10.438118034857274
-apache/openwhisk -> serverless/serverless,-1.5328684901065674,4.742871790084611
+,AMS_ij,normalized_AMS_ij,normalized_last
+apache/openwhisk -> aws/chalice,-2.3138121652704458,-125.9997123234159,-48.18872218022043
+serverless/serverless -> aws/chalice,-0.0814668084981236,-4.655908122755429,-2.7658829313919173
+aws/chalice -> apache/openwhisk,-0.7732396256738701,-116.04088224173692,-34.48747597823989
+serverless/serverless -> apache/openwhisk,-0.01635616920607824,-2.531073482140937,-0.651435247165885
+aws/chalice -> serverless/serverless,-2.4357980857173103,-27.89055085546367,-20.876236069714547
+apache/openwhisk -> serverless/serverless,-3.065736980213135,-35.455049859093734,9.485743580169222

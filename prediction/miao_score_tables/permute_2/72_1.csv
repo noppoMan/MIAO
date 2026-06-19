@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-Bash-it/bash-it -> ohmyzsh/ohmyzsh,0.5707913675930993,2.948299167421151
-sorin-ionescu/prezto -> ohmyzsh/ohmyzsh,2.56807730169023,22.370669711206972
-ohmyzsh/ohmyzsh -> Bash-it/bash-it,0.23007618029810756,2.100133147171446
-sorin-ionescu/prezto -> Bash-it/bash-it,0.24712610426301523,-1.238905679901166
-ohmyzsh/ohmyzsh -> sorin-ionescu/prezto,0.11202411605399677,3.063549446565678
-Bash-it/bash-it -> sorin-ionescu/prezto,-0.33728875168929906,-5.8556423345446555
+,AMS_ij,normalized_AMS_ij,normalized_last
+Bash-it/bash-it -> ohmyzsh/ohmyzsh,1.1415827351861987,25.961484307485033,5.896598334842302
+sorin-ionescu/prezto -> ohmyzsh/ohmyzsh,5.13615460338046,124.33861319719297,44.741339422413944
+ohmyzsh/ohmyzsh -> Bash-it/bash-it,0.4601523605962151,18.520444460263874,4.200266294342892
+sorin-ionescu/prezto -> Bash-it/bash-it,0.49425220852603047,25.231645424373117,-2.477811359802332
+ohmyzsh/ohmyzsh -> sorin-ionescu/prezto,0.22404823210799354,17.264653784976293,6.127098893131356
+Bash-it/bash-it -> sorin-ionescu/prezto,-0.6745775033785981,-50.78343395071414,-11.711284669089311

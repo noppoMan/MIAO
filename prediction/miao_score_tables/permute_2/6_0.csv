@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-apphud/ApphudSDK -> RevenueCat/purchases-ios,0.1985851034733023,9.402745239222165
-bizz84/swiftystorekit -> RevenueCat/purchases-ios,0.13268991602757466,5.95099560696723
-RevenueCat/purchases-ios -> apphud/ApphudSDK,0.3874007125553506,26.75362351285654
-bizz84/swiftystorekit -> apphud/ApphudSDK,0.05796241155671375,5.228946828323703
-RevenueCat/purchases-ios -> bizz84/swiftystorekit,-0.21452162621095422,-5.00725872663887
-apphud/ApphudSDK -> bizz84/swiftystorekit,-0.18904666000543646,-10.867862049712901
+,AMS_ij,normalized_AMS_ij,normalized_last
+apphud/ApphudSDK -> RevenueCat/purchases-ios,0.3971702069466046,38.82361341492781,18.80549047844433
+bizz84/swiftystorekit -> RevenueCat/purchases-ios,0.2653798320551493,28.12955365144757,11.90199121393446
+RevenueCat/purchases-ios -> apphud/ApphudSDK,0.7748014251107012,85.43283670613486,53.50724702571308
+bizz84/swiftystorekit -> apphud/ApphudSDK,0.1159248231134275,13.063678955229424,10.457893656647405
+RevenueCat/purchases-ios -> bizz84/swiftystorekit,-0.42904325242190844,-40.8814207945786,-10.01451745327774
+apphud/ApphudSDK -> bizz84/swiftystorekit,-0.3780933200108729,-36.36533833669695,-21.735724099425802

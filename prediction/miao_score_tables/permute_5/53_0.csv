@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-godotengine/godot-cpp -> godot-rust/gdext,0.35651109707823836,5.036967201605689
-godot-rust/godot-rust -> godot-rust/gdext,-0.7586194806669688,-6.871384190234905
-godot-rust/gdext -> godotengine/godot-cpp,-0.04627715342289865,-1.6243444422009972
-godot-rust/godot-rust -> godotengine/godot-cpp,-1.1513073464303838,-18.831173561380254
-godot-rust/gdext -> godot-rust/godot-rust,0.13229507631151033,4.2681207226358
-godotengine/godot-cpp -> godot-rust/godot-rust,-0.21315900198966942,-5.119042684084602
+,AMS_ij,normalized_AMS_ij,normalized_last
+godotengine/godot-cpp -> godot-rust/gdext,0.7130221941564767,23.315539074551147,10.073934403211378
+godot-rust/godot-rust -> godot-rust/gdext,-1.5172389613339377,-49.00999493357606,-13.74276838046981
+godot-rust/gdext -> godotengine/godot-cpp,-0.0925543068457973,-4.919964225019573,-3.2486888844019943
+godot-rust/godot-rust -> godotengine/godot-cpp,-2.3026146928607676,-117.91090914004383,-37.66234712276051
+godot-rust/gdext -> godot-rust/godot-rust,0.26459015262302066,19.031727221782052,8.5362414452716
+godotengine/godot-cpp -> godot-rust/godot-rust,-0.42631800397933883,-30.093777201759465,-10.238085368169203

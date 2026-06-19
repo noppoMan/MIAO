@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-parcel-bundler/parcel -> rollup/rollup,0.38034437270239696,-15.964913185588387
-webpack/webpack -> rollup/rollup,-0.08204586087201549,0.8913746305523286
-rollup/rollup -> parcel-bundler/parcel,-0.5052184726190962,-32.78349604978505
-webpack/webpack -> parcel-bundler/parcel,0.06504903716260113,4.588088919088847
-rollup/rollup -> webpack/webpack,-0.8533535782925006,-3.1636101419619784
-parcel-bundler/parcel -> webpack/webpack,-2.5169169463407846,-17.00615799568659
+,AMS_ij,normalized_AMS_ij,normalized_last
+parcel-bundler/parcel -> rollup/rollup,0.38034437270239696,17.88844697351173,-15.964913185588387
+webpack/webpack -> rollup/rollup,-0.08204586087201549,-4.591191531402197,0.8913746305523286
+rollup/rollup -> parcel-bundler/parcel,-0.5052184726190962,-41.08666205647707,-32.78349604978505
+webpack/webpack -> parcel-bundler/parcel,0.06504903716260113,5.436492975400816,4.588088919088847
+rollup/rollup -> webpack/webpack,-0.8533535782925006,-21.164986240309396,-3.1636101419619784
+parcel-bundler/parcel -> webpack/webpack,-2.5169169463407846,-58.67839580529278,-17.00615799568659

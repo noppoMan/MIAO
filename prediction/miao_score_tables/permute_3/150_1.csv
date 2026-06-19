@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-microsoft/terminal -> mintty/mintty,-0.06549725134078149,-2.23397610978648
-alacritty/alacritty -> mintty/mintty,-0.23743964389281355,19.466302936701336
-mintty/mintty -> microsoft/terminal,0.07656691628162493,15.477236109403176
-alacritty/alacritty -> microsoft/terminal,-0.22060499999175376,3.945864886514476
-mintty/mintty -> alacritty/alacritty,0.5864248991344485,13.834956007307644
-microsoft/terminal -> alacritty/alacritty,-0.0341298013524232,1.9063922496506231
+,AMS_ij,normalized_AMS_ij,normalized_last
+microsoft/terminal -> mintty/mintty,-0.13099450268156299,-12.854018577829985,-4.46795221957296
+alacritty/alacritty -> mintty/mintty,-0.4748792877856271,-47.969066649764265,38.93260587340267
+mintty/mintty -> microsoft/terminal,0.15313383256324986,6.263478924762278,30.95447221880635
+alacritty/alacritty -> microsoft/terminal,-0.4412099999835075,-15.727783382359839,7.891729773028952
+mintty/mintty -> alacritty/alacritty,1.172849798268897,151.31845218914336,27.66991201461529
+microsoft/terminal -> alacritty/alacritty,-0.0682596027048464,-9.996429563657893,3.8127844993012463

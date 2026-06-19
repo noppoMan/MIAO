@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-ossu/computer-science -> exercism/exercism,0.0354058199499116,1.285352524175679
-freecodecamp/freecodecamp -> exercism/exercism,-0.003974337304649474,-0.19209834059517256
-exercism/exercism -> ossu/computer-science,-0.25722291700769073,-0.49307531280024
-freecodecamp/freecodecamp -> ossu/computer-science,-0.0007696794356118052,0.35645750249346825
-exercism/exercism -> freecodecamp/freecodecamp,-113.41814535385754,-9.528004800186817
-ossu/computer-science -> freecodecamp/freecodecamp,24.74368257512038,24.882537714848894
+,AMS_ij,normalized_AMS_ij,normalized_last
+ossu/computer-science -> exercism/exercism,0.11062503437608762,67.52203110099,8.573832957120109
+freecodecamp/freecodecamp -> exercism/exercism,-0.008502171838532323,-5.542251633680566,-0.23312715333037765
+exercism/exercism -> ossu/computer-science,-0.39254390274900974,-139.27314153091538,-1.9842512889796364
+freecodecamp/freecodecamp -> ossu/computer-science,0.003649593224471307,-0.7355992820800336,1.0310850869700825
+exercism/exercism -> freecodecamp/freecodecamp,-241.1991441308046,-974.7332448960776,-24.751482343256903
+ossu/computer-science -> freecodecamp/freecodecamp,63.430963025386944,276.1093501023975,62.261343342711214

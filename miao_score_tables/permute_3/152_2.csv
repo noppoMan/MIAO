@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-ionic-team/ionic-framework -> flutter/flutter,0.2897328304858475,3.066388577006715
-NativeScript/NativeScript -> flutter/flutter,0.07083484360351974,0.7917768588427965
-flutter/flutter -> ionic-team/ionic-framework,-0.2050322877174992,-6.038992925280679
-NativeScript/NativeScript -> ionic-team/ionic-framework,0.03902444852887996,1.4147592466847214
-flutter/flutter -> NativeScript/NativeScript,0.009482962858459613,0.8150682912750697
-ionic-team/ionic-framework -> NativeScript/NativeScript,-0.010488028728685225,-0.9711662298909053
+,AMS_ij,normalized_AMS_ij,normalized_last
+ionic-team/ionic-framework -> flutter/flutter,0.2897328304858475,3.066388577006715,3.066388577006715
+NativeScript/NativeScript -> flutter/flutter,0.07083484360351974,0.7917768588427965,0.7917768588427965
+flutter/flutter -> ionic-team/ionic-framework,-0.2050322877174992,-6.038992925280679,-6.038992925280679
+NativeScript/NativeScript -> ionic-team/ionic-framework,0.03902444852887996,1.4147592466847214,1.4147592466847214
+flutter/flutter -> NativeScript/NativeScript,0.009482962858459613,0.8150682912750697,0.8150682912750697
+ionic-team/ionic-framework -> NativeScript/NativeScript,-0.010488028728685225,-0.9711662298909053,-0.9711662298909053

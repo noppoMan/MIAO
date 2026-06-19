@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-elastic/kibana -> getsentry/sentry,-4.366309995668685,-13.896751507890848
-grafana/grafana -> getsentry/sentry,-3.4447060201611768,-9.32161384740924
-getsentry/sentry -> elastic/kibana,-4.6732676617143944,-9.028129759588586
-grafana/grafana -> elastic/kibana,-7.88518295234597,-8.324581347240152
-getsentry/sentry -> grafana/grafana,-3.812983821962346,-17.287638168017953
-elastic/kibana -> grafana/grafana,-1.3698957866819443,-6.268005602404074
+,AMS_ij,normalized_AMS_ij,normalized_last
+elastic/kibana -> getsentry/sentry,-4.366309995668685,-37.21709024390799,-13.896751507890848
+grafana/grafana -> getsentry/sentry,-3.4447060201611768,-23.356315717685995,-9.32161384740924
+getsentry/sentry -> elastic/kibana,-4.6732676617143944,-32.04802182735392,-9.028129759588586
+grafana/grafana -> elastic/kibana,-7.88518295234597,-52.82130251388074,-8.324581347240152
+getsentry/sentry -> grafana/grafana,-3.812983821962346,-56.97526414336123,-17.287638168017953
+elastic/kibana -> grafana/grafana,-1.3698957866819443,-20.35025750409449,-6.268005602404074

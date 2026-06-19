@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-final-form/react-final-form -> formium/formik,0.7099439637981417,-7.641314957425736
-redux-form/redux-form -> formium/formik,0.9261738632923522,10.029451792470232
-formium/formik -> final-form/react-final-form,-0.14857126861050957,-8.863348623257172
-redux-form/redux-form -> final-form/react-final-form,-0.2756948106983853,-8.931099930331492
-formium/formik -> redux-form/redux-form,-0.0827453788270967,-3.078503511135977
-final-form/react-final-form -> redux-form/redux-form,-1.4812314154024402,-39.26149850990882
+,AMS_ij,normalized_AMS_ij,normalized_last
+final-form/react-final-form -> formium/formik,0.7099439637981417,30.644269886773063,-7.641314957425736
+redux-form/redux-form -> formium/formik,0.9261738632923522,31.598697019230755,10.029451792470232
+formium/formik -> final-form/react-final-form,-0.14857126861050957,-11.611933675277594,-8.863348623257172
+redux-form/redux-form -> final-form/react-final-form,-0.2756948106983853,-19.78932939950805,-8.931099930331492
+formium/formik -> redux-form/redux-form,-0.0827453788270967,-5.371099723867619,-3.078503511135977
+final-form/react-final-form -> redux-form/redux-form,-1.4812314154024402,-103.5788879526159,-39.26149850990882

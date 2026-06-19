@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-facebook/react-native -> NativeScript/NativeScript,-0.3857238015754001,-3.7473053923563566
-flutter/flutter -> NativeScript/NativeScript,-0.13061584517064007,-2.2012006339061134
-NativeScript/NativeScript -> facebook/react-native,-2.404768123427073,-7.358758342371313
-flutter/flutter -> facebook/react-native,-0.5817087371400547,-1.8208558263517391
-NativeScript/NativeScript -> flutter/flutter,0.6526699298518577,1.3619816041142998
-facebook/react-native -> flutter/flutter,0.06421890021724401,1.690439686181462
+,AMS_ij,normalized_AMS_ij,normalized_last
+facebook/react-native -> NativeScript/NativeScript,-0.7714476031508002,-28.943755814724824,-7.494610784712713
+flutter/flutter -> NativeScript/NativeScript,-0.26123169034128013,-8.35982961840003,-4.402401267812227
+NativeScript/NativeScript -> facebook/react-native,-4.809536246854146,-67.2784960025254,-14.717516684742627
+flutter/flutter -> facebook/react-native,-1.1634174742801093,-16.04184437411684,-3.6417116527034783
+NativeScript/NativeScript -> flutter/flutter,1.3053398597037154,12.998659619750425,2.7239632082285996
+facebook/react-native -> flutter/flutter,0.12843780043448802,0.8802883409355816,3.380879372362924

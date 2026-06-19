@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-tensorflow/models -> pytorch/vision,-1.2851034001029906,-71.2948695773233
-huggingface/transformers -> pytorch/vision,-0.04473754697965347,-3.49092497963802
-pytorch/vision -> tensorflow/models,-0.379252282878171,-22.715775450519537
-huggingface/transformers -> tensorflow/models,0.07608892403241115,1.3601902778961066
-pytorch/vision -> huggingface/transformers,-2.242869152672657,-18.971861853098627
-tensorflow/models -> huggingface/transformers,-1.2768998178552144,-22.52187727534724
+,AMS_ij,normalized_AMS_ij,normalized_last
+tensorflow/models -> pytorch/vision,-2.5702068002059812,-137.3714414437743,-142.5897391546466
+huggingface/transformers -> pytorch/vision,-0.08947509395930694,-4.972760542326093,-6.98184995927604
+pytorch/vision -> tensorflow/models,-0.758504565756342,-45.86441544158079,-45.431550901039074
+huggingface/transformers -> tensorflow/models,0.1521778480648223,8.249676055378089,2.720380555792213
+pytorch/vision -> huggingface/transformers,-4.485738305345314,-67.43009208478212,-37.943723706197254
+tensorflow/models -> huggingface/transformers,-2.553799635710429,-39.11883623039032,-45.04375455069448

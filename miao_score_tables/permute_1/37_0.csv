@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-wxsms/uiv -> bootstrap-vue/bootstrap-vue,0.021196682079902357,-2.2042362993386155
-yuche/vue-strap -> bootstrap-vue/bootstrap-vue,-6.884819088303731,-47.61747674925102
-bootstrap-vue/bootstrap-vue -> wxsms/uiv,-0.39787904760466375,-8.739438868803981
-yuche/vue-strap -> wxsms/uiv,-7.017617535300593,-144.1528626398061
-bootstrap-vue/bootstrap-vue -> yuche/vue-strap,-0.0165121599297767,-2.465242554706088
-wxsms/uiv -> yuche/vue-strap,-0.1866611922558059,-26.48678131794361
+,AMS_ij,normalized_AMS_ij,normalized_last
+wxsms/uiv -> bootstrap-vue/bootstrap-vue,0.021196682079902357,0.5643834741699043,-2.2042362993386155
+yuche/vue-strap -> bootstrap-vue/bootstrap-vue,-6.884819088303731,-91.68408375708566,-47.61747674925102
+bootstrap-vue/bootstrap-vue -> wxsms/uiv,-0.39787904760466375,-14.88628209790009,-8.739438868803981
+yuche/vue-strap -> wxsms/uiv,-7.017617535300593,-262.9026903100653,-144.1528626398061
+bootstrap-vue/bootstrap-vue -> yuche/vue-strap,-0.0165121599297767,-3.984248847992676,-2.465242554706088
+wxsms/uiv -> yuche/vue-strap,-0.1866611922558059,-45.09713416312604,-26.48678131794361

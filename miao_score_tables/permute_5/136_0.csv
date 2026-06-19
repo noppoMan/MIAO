@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-home-assistant/core -> ioBroker/ioBroker,0.12894635384458078,0.28080708845986635
-node-red/node-red -> ioBroker/ioBroker,-0.3124066451046735,-10.192555694540067
-ioBroker/ioBroker -> home-assistant/core,6.205062467081276,-20.536698375917734
-node-red/node-red -> home-assistant/core,1.760136519682964,-2.715416260471892
-ioBroker/ioBroker -> node-red/node-red,-9.032122587838634,-61.24213029492418
-home-assistant/core -> node-red/node-red,1.0300103264900937,4.738429164903988
+,AMS_ij,normalized_AMS_ij,normalized_last
+home-assistant/core -> ioBroker/ioBroker,0.12894635384458078,17.37217523201633,0.28080708845986635
+node-red/node-red -> ioBroker/ioBroker,-0.3124066451046735,-34.35950071411102,-10.192555694540067
+ioBroker/ioBroker -> home-assistant/core,6.205062467081276,83.14898100283098,-20.536698375917734
+node-red/node-red -> home-assistant/core,1.760136519682964,25.575584599062967,-2.715416260471892
+ioBroker/ioBroker -> node-red/node-red,-9.032122587838634,-239.7566751060717,-61.24213029492418
+home-assistant/core -> node-red/node-red,1.0300103264900937,27.757930468713177,4.738429164903988

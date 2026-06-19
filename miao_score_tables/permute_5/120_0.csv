@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-reactivex/rxjava -> Kotlin/kotlinx.coroutines,2.9798207573245037,32.009329197158884
-reactor/reactor-core -> Kotlin/kotlinx.coroutines,-0.182310700229589,4.1806027031118935
-Kotlin/kotlinx.coroutines -> reactivex/rxjava,0.4637791863702284,3.1522198426197883
-reactor/reactor-core -> reactivex/rxjava,-0.9240748171738823,-17.248949122821344
-Kotlin/kotlinx.coroutines -> reactor/reactor-core,0.3010004943040606,2.0375267104932435
-reactivex/rxjava -> reactor/reactor-core,-2.482480224989995,-18.968488797517363
+,AMS_ij,normalized_AMS_ij,normalized_last
+reactivex/rxjava -> Kotlin/kotlinx.coroutines,2.9798207573245037,100.54666692468808,32.009329197158884
+reactor/reactor-core -> Kotlin/kotlinx.coroutines,-0.182310700229589,-6.9294605010155275,4.1806027031118935
+Kotlin/kotlinx.coroutines -> reactivex/rxjava,0.4637791863702284,26.202990876126787,3.1522198426197883
+reactor/reactor-core -> reactivex/rxjava,-0.9240748171738823,-59.16992252909507,-17.248949122821344
+Kotlin/kotlinx.coroutines -> reactor/reactor-core,0.3010004943040606,9.978887407373463,2.0375267104932435
+reactivex/rxjava -> reactor/reactor-core,-2.482480224989995,-86.17491697760889,-18.968488797517363

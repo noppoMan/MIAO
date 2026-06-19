@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-nwjs/nw.js -> AvaloniaUI/Avalonia,-1.5294185516912737,-6.388217237832289
-electron/electron -> AvaloniaUI/Avalonia,-0.8711954017438137,-4.393315517377559
-AvaloniaUI/Avalonia -> nwjs/nw.js,0.17615322130792277,2.523497619824261
-electron/electron -> nwjs/nw.js,-0.144637685793003,-0.15709893871475117
-AvaloniaUI/Avalonia -> electron/electron,-2.90602246075,-6.275470268836707
-nwjs/nw.js -> electron/electron,-3.3988588171010226,-9.248548605848974
+,AMS_ij,normalized_AMS_ij,normalized_last
+nwjs/nw.js -> AvaloniaUI/Avalonia,-3.0588371033825474,-80.81425318043348,-12.776434475664578
+electron/electron -> AvaloniaUI/Avalonia,-1.7423908034876274,-28.621151593554593,-8.786631034755118
+AvaloniaUI/Avalonia -> nwjs/nw.js,0.35230644261584554,13.748795556338465,5.046995239648522
+electron/electron -> nwjs/nw.js,-0.289275371586006,-9.81017439235461,-0.31419787742950234
+AvaloniaUI/Avalonia -> electron/electron,-5.8120449215,-41.822668468798376,-12.550940537673414
+nwjs/nw.js -> electron/electron,-6.797717634202045,-76.72607851526409,-18.497097211697948

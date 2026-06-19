@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-jgthms/bulma -> twbs/bootstrap,0.7812325886575701,62.351241324309925
-tailwindlabs/tailwindcss -> twbs/bootstrap,-0.9526568833682861,-25.648833244742274
-twbs/bootstrap -> jgthms/bulma,0.05433883723050688,5.980633126414067
-tailwindlabs/tailwindcss -> jgthms/bulma,-0.1559696660188484,-9.023931256615695
-twbs/bootstrap -> tailwindlabs/tailwindcss,-1.9376341235761603,-57.18787907613033
-jgthms/bulma -> tailwindlabs/tailwindcss,-1.3193722504105283,40.99978084203318
+,AMS_ij,normalized_AMS_ij,normalized_last
+jgthms/bulma -> twbs/bootstrap,0.7812325886575701,37.395992023635685,62.351241324309925
+tailwindlabs/tailwindcss -> twbs/bootstrap,-0.9526568833682861,-38.32086471915622,-25.648833244742274
+twbs/bootstrap -> jgthms/bulma,0.05433883723050688,4.65409434519423,5.980633126414067
+tailwindlabs/tailwindcss -> jgthms/bulma,-0.1559696660188484,-22.68528650373578,-9.023931256615695
+twbs/bootstrap -> tailwindlabs/tailwindcss,-1.9376341235761603,-89.45653685044799,-57.18787907613033
+jgthms/bulma -> tailwindlabs/tailwindcss,-1.3193722504105283,-56.547187529842525,40.99978084203318

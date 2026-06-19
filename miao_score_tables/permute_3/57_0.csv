@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-celluloid/celluloid -> puma/puma,-0.6640938872741106,-3.0025529962047153
-eventmachine/eventmachine -> puma/puma,0.8214592512174034,12.049088059723267
-puma/puma -> celluloid/celluloid,-0.23354852250592892,0.7187392210172139
-eventmachine/eventmachine -> celluloid/celluloid,5.471208244386263,37.304230617721075
-puma/puma -> eventmachine/eventmachine,-0.07721190660252597,-10.362972080327692
-celluloid/celluloid -> eventmachine/eventmachine,0.5597939399650591,10.866229085252623
+,AMS_ij,normalized_AMS_ij,normalized_last
+celluloid/celluloid -> puma/puma,-0.6640938872741106,-32.04781418077709,-3.0025529962047153
+eventmachine/eventmachine -> puma/puma,0.8214592512174034,39.82982086341412,12.049088059723267
+puma/puma -> celluloid/celluloid,-0.23354852250592892,-9.433232970769373,0.7187392210172139
+eventmachine/eventmachine -> celluloid/celluloid,5.471208244386263,177.3686297382474,37.304230617721075
+puma/puma -> eventmachine/eventmachine,-0.07721190660252597,-5.821923642872523,-10.362972080327692
+celluloid/celluloid -> eventmachine/eventmachine,0.5597939399650591,59.529992711821556,10.866229085252623

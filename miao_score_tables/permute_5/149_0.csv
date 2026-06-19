@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-mermaid-js/mermaid -> yuzutech/kroki,-0.7616529284422011,-1.9437296678634899
-plantuml/plantuml -> yuzutech/kroki,-1.767097379535643,8.136046886441727
-yuzutech/kroki -> mermaid-js/mermaid,-0.2619440476988794,2.3068779178414567
-plantuml/plantuml -> mermaid-js/mermaid,-0.471405866838034,-24.62702625433683
-yuzutech/kroki -> plantuml/plantuml,0.7754412911209627,31.222422148343625
-mermaid-js/mermaid -> plantuml/plantuml,0.2657139325931736,5.803506011914685
+,AMS_ij,normalized_AMS_ij,normalized_last
+mermaid-js/mermaid -> yuzutech/kroki,-0.7616529284422011,-33.909099106892214,-1.9437296678634899
+plantuml/plantuml -> yuzutech/kroki,-1.767097379535643,-100.2450289621836,8.136046886441727
+yuzutech/kroki -> mermaid-js/mermaid,-0.2619440476988794,-5.672827092932747,2.3068779178414567
+plantuml/plantuml -> mermaid-js/mermaid,-0.471405866838034,-5.363660279794669,-24.62702625433683
+yuzutech/kroki -> plantuml/plantuml,0.7754412911209627,22.038396221714404,31.222422148343625
+mermaid-js/mermaid -> plantuml/plantuml,0.2657139325931736,14.710224515131804,5.803506011914685

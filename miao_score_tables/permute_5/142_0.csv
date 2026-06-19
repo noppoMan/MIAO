@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-cypress-io/cypress -> DevExpress/testcafe,-0.0594931293258141,-1.0635033565221461
-seleniumhq/selenium -> DevExpress/testcafe,-0.2526555808164267,-2.581355930878039
-DevExpress/testcafe -> cypress-io/cypress,3.562390302664739,-1.5247043633023576
-seleniumhq/selenium -> cypress-io/cypress,2.033314816806582,3.0583789084029838
-DevExpress/testcafe -> seleniumhq/selenium,-3.180405166767946,-8.95145264071535
-cypress-io/cypress -> seleniumhq/selenium,-0.3732071668207039,0.47677239046663816
+,AMS_ij,normalized_AMS_ij,normalized_last
+cypress-io/cypress -> DevExpress/testcafe,-0.0594931293258141,-3.2247355973227436,-1.0635033565221461
+seleniumhq/selenium -> DevExpress/testcafe,-0.2526555808164267,-13.728034887359991,-2.581355930878039
+DevExpress/testcafe -> cypress-io/cypress,3.562390302664739,30.70120315207483,-1.5247043633023576
+seleniumhq/selenium -> cypress-io/cypress,2.033314816806582,17.92999484476904,3.0583789084029838
+DevExpress/testcafe -> seleniumhq/selenium,-3.180405166767946,-63.382315928904696,-8.95145264071535
+cypress-io/cypress -> seleniumhq/selenium,-0.3732071668207039,-8.228621738359198,0.47677239046663816

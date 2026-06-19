@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-avelino/awesome-go -> rust-unofficial/awesome-rust,0.022650633147129666,-0.34174782311475327
-fffaraz/awesome-cpp -> rust-unofficial/awesome-rust,-0.6910677932045504,-5.9204900024444855
-rust-unofficial/awesome-rust -> avelino/awesome-go,0.21077629731467898,1.2717269787682333
-fffaraz/awesome-cpp -> avelino/awesome-go,-2.12542121557123,-22.81619114121569
-rust-unofficial/awesome-rust -> fffaraz/awesome-cpp,-0.22469026831139416,-0.3950224247611785
-avelino/awesome-go -> fffaraz/awesome-cpp,0.05779420484537022,1.8451964276702364
+,AMS_ij,normalized_AMS_ij,normalized_last
+avelino/awesome-go -> rust-unofficial/awesome-rust,0.04530126629425933,1.9375011514761926,-0.6834956462295065
+fffaraz/awesome-cpp -> rust-unofficial/awesome-rust,-1.3821355864091007,-56.639232941342264,-11.840980004888971
+rust-unofficial/awesome-rust -> avelino/awesome-go,0.42155259462935796,9.666678318880251,2.5434539575364665
+fffaraz/awesome-cpp -> avelino/awesome-go,-4.25084243114246,-102.41755575203713,-45.63238228243138
+rust-unofficial/awesome-rust -> fffaraz/awesome-cpp,-0.4493805366227883,-40.49040754285441,-0.790044849522357
+avelino/awesome-go -> fffaraz/awesome-cpp,0.11558840969074044,10.77969309719486,3.690392855340473

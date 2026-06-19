@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-bhauman/figwheel-main -> thheller/shadow-cljs,-0.5791601411143096,-23.20434325610897
-bhauman/lein-figwheel -> thheller/shadow-cljs,-1.5384347610651328,-34.51496984986495
-thheller/shadow-cljs -> bhauman/figwheel-main,-2.044895089112838,-47.49472467266701
-bhauman/lein-figwheel -> bhauman/figwheel-main,-4.260877619720351,-101.06206499943444
-thheller/shadow-cljs -> bhauman/lein-figwheel,-1.3838501707066935,-39.19194454359767
-bhauman/figwheel-main -> bhauman/lein-figwheel,-0.5105297716941525,-29.12577419573401
+,AMS_ij,normalized_AMS_ij,normalized_last
+bhauman/figwheel-main -> thheller/shadow-cljs,-0.5791601411143096,-29.95431769802815,-23.20434325610897
+bhauman/lein-figwheel -> thheller/shadow-cljs,-1.5384347610651328,-66.79279763410767,-34.51496984986495
+thheller/shadow-cljs -> bhauman/figwheel-main,-2.044895089112838,-89.46663077269737,-47.49472467266701
+bhauman/lein-figwheel -> bhauman/figwheel-main,-4.260877619720351,-192.5285983134754,-101.06206499943444
+thheller/shadow-cljs -> bhauman/lein-figwheel,-1.3838501707066935,-73.27537407219587,-39.19194454359767
+bhauman/figwheel-main -> bhauman/lein-figwheel,-0.5105297716941525,-37.370147488136396,-29.12577419573401

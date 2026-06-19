@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-browserify/browserify -> webpack/webpack,0.1363883153133107,0.08485822871533198
-componentjs/component -> webpack/webpack,-0.9744044456912484,-9.753229471744145
-webpack/webpack -> browserify/browserify,-3.655967936261101,-23.47044177566516
-componentjs/component -> browserify/browserify,0.2377762496924013,3.8798877320092684
-webpack/webpack -> componentjs/component,0.28096582737553877,5.139027317151121
-browserify/browserify -> componentjs/component,0.10932529073085724,0.7932070502658728
+,AMS_ij,normalized_AMS_ij,normalized_last
+browserify/browserify -> webpack/webpack,0.2727766306266214,13.854917883091082,0.16971645743066396
+componentjs/component -> webpack/webpack,-1.9488088913824968,-97.14079278610575,-19.50645894348829
+webpack/webpack -> browserify/browserify,-7.311935872522202,-175.21753250157226,-46.94088355133032
+componentjs/component -> browserify/browserify,0.4755524993848026,9.222933974271374,7.759775464018537
+webpack/webpack -> componentjs/component,0.5619316547510775,22.00880902623891,10.278054634302242
+browserify/browserify -> componentjs/component,0.21865058146171448,7.633603515403397,1.5864141005317456

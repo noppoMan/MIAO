@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-executablebooks/jupyter-book -> quarto-dev/quarto-cli,-9.139685574478499,-49.08377319940577
-fastai/fastpages -> quarto-dev/quarto-cli,-4.163839385191984,-18.59410052715179
-quarto-dev/quarto-cli -> executablebooks/jupyter-book,0.0005391527433244738,0.1734339908801742
-fastai/fastpages -> executablebooks/jupyter-book,-0.3934768405079986,-34.247699687284836
-quarto-dev/quarto-cli -> fastai/fastpages,0.012303282713644345,0.23673916692881714
-executablebooks/jupyter-book -> fastai/fastpages,0.09651673854565583,-9.969268608167697
+,AMS_ij,normalized_AMS_ij,normalized_last
+executablebooks/jupyter-book -> quarto-dev/quarto-cli,-9.139685574478499,-68.80235991574453,-49.08377319940577
+fastai/fastpages -> quarto-dev/quarto-cli,-4.163839385191984,-32.550942040019066,-18.59410052715179
+quarto-dev/quarto-cli -> executablebooks/jupyter-book,0.0005391527433244738,0.03523207140707382,0.1734339908801742
+fastai/fastpages -> executablebooks/jupyter-book,-0.3934768405079986,-52.15378245690396,-34.247699687284836
+quarto-dev/quarto-cli -> fastai/fastpages,0.012303282713644345,0.7211842705061412,0.23673916692881714
+executablebooks/jupyter-book -> fastai/fastpages,0.09651673854565583,4.071533667251745,-9.969268608167697

@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-square/okhttp -> apache/httpcomponents-client,0.028917766888956704,0.703810005292741
-jetty/jetty.project -> apache/httpcomponents-client,-0.03916198514141492,-0.9322368872067478
-apache/httpcomponents-client -> square/okhttp,-0.0961176750139921,-10.847336502356681
-jetty/jetty.project -> square/okhttp,-0.027308956523847253,-3.080938872715947
-apache/httpcomponents-client -> jetty/jetty.project,-0.0945201340887788,-1.6217842219318899
-square/okhttp -> jetty/jetty.project,1.3609152484983729,23.104046667031355
+,AMS_ij,normalized_AMS_ij,normalized_last
+square/okhttp -> apache/httpcomponents-client,0.028917766888956704,0.703810005292741,0.703810005292741
+jetty/jetty.project -> apache/httpcomponents-client,-0.03916198514141492,-0.9322368872067478,-0.9322368872067478
+apache/httpcomponents-client -> square/okhttp,-0.0961176750139921,-10.847336502356681,-10.847336502356681
+jetty/jetty.project -> square/okhttp,-0.027308956523847253,-3.080938872715947,-3.080938872715947
+apache/httpcomponents-client -> jetty/jetty.project,-0.0945201340887788,-1.6217842219318899,-1.6217842219318899
+square/okhttp -> jetty/jetty.project,1.3609152484983729,23.104046667031355,23.104046667031355

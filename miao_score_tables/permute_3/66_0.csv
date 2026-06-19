@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-rails/importmap-rails -> shakacode/shakapacker,-1.036371046836378,-53.24639092765329
-rails/webpacker -> shakacode/shakapacker,-0.9096873181398639,-40.707982645761014
-shakacode/shakapacker -> rails/importmap-rails,0.07293956652859543,-5.963210887957218
-rails/webpacker -> rails/importmap-rails,-2.3917816085996244,-82.75422342108243
-shakacode/shakapacker -> rails/webpacker,-0.6137545048873454,-34.637119796399176
-rails/importmap-rails -> rails/webpacker,-1.6176605948643068,-86.73608170720493
+,AMS_ij,normalized_AMS_ij,normalized_last
+rails/importmap-rails -> shakacode/shakapacker,-1.036371046836378,-65.37860661237401,-53.24639092765329
+rails/webpacker -> shakacode/shakapacker,-0.9096873181398639,-62.62243911717443,-40.707982645761014
+shakacode/shakapacker -> rails/importmap-rails,0.07293956652859543,2.855391778693543,-5.963210887957218
+rails/webpacker -> rails/importmap-rails,-2.3917816085996244,-170.96676469509225,-82.75422342108243
+shakacode/shakapacker -> rails/webpacker,-0.6137545048873454,-63.10506180220128,-34.637119796399176
+rails/importmap-rails -> rails/webpacker,-1.6176605948643068,-145.3450812794088,-86.73608170720493

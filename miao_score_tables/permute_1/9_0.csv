@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-Sonarr/Sonarr -> sickchill/sickchill,3.7506264515707137,35.761509816108315
-midgetspy/sick-beard -> sickchill/sickchill,11.323522568998175,111.80049948080458
-sickchill/sickchill -> Sonarr/Sonarr,0.8349730067347867,17.325510185030044
-midgetspy/sick-beard -> Sonarr/Sonarr,-4.539067196062846,-133.01348742441436
-sickchill/sickchill -> midgetspy/sick-beard,0.10992507354987796,11.502291943492652
-Sonarr/Sonarr -> midgetspy/sick-beard,-0.1228192587496512,-19.876393360065148
+,AMS_ij,normalized_AMS_ij,normalized_last
+Sonarr/Sonarr -> sickchill/sickchill,3.7506264515707137,24.072028994675982,35.761509816108315
+midgetspy/sick-beard -> sickchill/sickchill,11.323522568998175,81.89140863381188,111.80049948080458
+sickchill/sickchill -> Sonarr/Sonarr,0.8349730067347867,25.232466953438177,17.325510185030044
+midgetspy/sick-beard -> Sonarr/Sonarr,-4.539067196062846,-142.35421342745389,-133.01348742441436
+sickchill/sickchill -> midgetspy/sick-beard,0.10992507354987796,11.049140951083348,11.502291943492652
+Sonarr/Sonarr -> midgetspy/sick-beard,-0.1228192587496512,-13.85667966362398,-19.876393360065148

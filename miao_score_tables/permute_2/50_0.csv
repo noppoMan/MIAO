@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-parcel-bundler/parcel -> evanw/esbuild,1.74440649811073,2.1332043549584756
-snowpackjs/snowpack -> evanw/esbuild,-0.2527390761149281,-2.4177073726005056
-evanw/esbuild -> parcel-bundler/parcel,-0.030015529428820034,0.2620945549017526
-snowpackjs/snowpack -> parcel-bundler/parcel,0.053267562869745246,0.9442638537375234
-evanw/esbuild -> snowpackjs/snowpack,-0.2998812614838538,-3.164479333993507
-parcel-bundler/parcel -> snowpackjs/snowpack,3.4656282791599367,3.452827535438231
+,AMS_ij,normalized_AMS_ij,normalized_last
+parcel-bundler/parcel -> evanw/esbuild,1.74440649811073,24.528454605452715,2.1332043549584756
+snowpackjs/snowpack -> evanw/esbuild,-0.2527390761149281,-4.0591206052866795,-2.4177073726005056
+evanw/esbuild -> parcel-bundler/parcel,-0.030015529428820034,-2.215129084518582,0.2620945549017526
+snowpackjs/snowpack -> parcel-bundler/parcel,0.053267562869745246,3.7034843005135163,0.9442638537375234
+evanw/esbuild -> snowpackjs/snowpack,-0.2998812614838538,-3.2400818287709043,-3.164479333993507
+parcel-bundler/parcel -> snowpackjs/snowpack,3.4656282791599367,22.626706605710275,3.452827535438231

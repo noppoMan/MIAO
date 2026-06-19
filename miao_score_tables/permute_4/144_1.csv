@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-vinta/awesome-python -> avelino/awesome-go,0.2731183867158872,6.738994603783034
-fffaraz/awesome-cpp -> avelino/awesome-go,-2.2258706383497575,-11.534738187998645
-avelino/awesome-go -> vinta/awesome-python,-0.3017942674789021,-4.233344202835088
-fffaraz/awesome-cpp -> vinta/awesome-python,0.7943672399853807,3.789503758986262
-avelino/awesome-go -> fffaraz/awesome-cpp,-0.28914595008957844,0.16892096994196862
-vinta/awesome-python -> fffaraz/awesome-cpp,-0.4942396621239103,-21.42770678223251
+,AMS_ij,normalized_AMS_ij,normalized_last
+vinta/awesome-python -> avelino/awesome-go,0.2731183867158872,12.139410952328436,6.738994603783034
+fffaraz/awesome-cpp -> avelino/awesome-go,-2.2258706383497575,-98.93894991703117,-11.534738187998645
+avelino/awesome-go -> vinta/awesome-python,-0.3017942674789021,-20.163093510432894,-4.233344202835088
+fffaraz/awesome-cpp -> vinta/awesome-python,0.7943672399853807,50.191660709951535,3.789503758986262
+avelino/awesome-go -> fffaraz/awesome-cpp,-0.28914595008957844,-22.724807645489125,0.16892096994196862
+vinta/awesome-python -> fffaraz/awesome-cpp,-0.4942396621239103,-43.373942693420105,-21.42770678223251

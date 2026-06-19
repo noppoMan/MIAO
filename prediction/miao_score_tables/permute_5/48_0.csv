@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-bytecodealliance/wasmtime -> wasmerio/wasmer,-1.0092096020971866,-3.2588578315630263
-bytecodealliance/lucet -> wasmerio/wasmer,-2.016353543293329,-7.856333823564622
-wasmerio/wasmer -> bytecodealliance/wasmtime,-0.20072035915635017,-1.532891827525142
-bytecodealliance/lucet -> bytecodealliance/wasmtime,-0.08967193868841411,-1.7585447204440239
-wasmerio/wasmer -> bytecodealliance/lucet,-0.10487955574562274,0.033611628477047684
-bytecodealliance/wasmtime -> bytecodealliance/lucet,0.3038327945216416,2.627666493819224
+,AMS_ij,normalized_AMS_ij,normalized_last
+bytecodealliance/wasmtime -> wasmerio/wasmer,-2.018419204194373,-18.629318962949217,-6.517715663126053
+bytecodealliance/lucet -> wasmerio/wasmer,-4.032707086586658,-36.24300590157647,-15.712667647129244
+wasmerio/wasmer -> bytecodealliance/wasmtime,-0.40144071831270034,-6.049810695089032,-3.065783655050284
+bytecodealliance/lucet -> bytecodealliance/wasmtime,-0.17934387737682822,-2.4465876272917466,-3.5170894408880478
+wasmerio/wasmer -> bytecodealliance/lucet,-0.2097591114912455,-3.0347620006037945,0.06722325695409537
+bytecodealliance/wasmtime -> bytecodealliance/lucet,0.6076655890432832,11.077844062769595,5.255332987638448

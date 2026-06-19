@@ -1,7 +1,7 @@
-,AMS_ij,normalized_AMS_ij
-google/volley -> square/retrofit,0.006753557374986329,0.15625014492951322
-stephanenicolas/robospice -> square/retrofit,-0.052665658762548154,-0.5295894393977743
-square/retrofit -> google/volley,-8.735066465305142,-3.404209583159096
-stephanenicolas/robospice -> google/volley,-0.24136584049130982,0.09344047952773323
-square/retrofit -> stephanenicolas/robospice,-0.3729938888150702,-6.204107264038609
-google/volley -> stephanenicolas/robospice,-0.0061420243417883835,-0.08528985849999349
+,AMS_ij,normalized_AMS_ij,normalized_last
+google/volley -> square/retrofit,0.013507114749972658,0.6512551478862952,0.31250028985902645
+stephanenicolas/robospice -> square/retrofit,-0.10533131752509631,-5.213190138142743,-1.0591788787955485
+square/retrofit -> google/volley,-17.470132930610283,-23.435431338829265,-6.808419166318192
+stephanenicolas/robospice -> google/volley,-0.48273168098261965,-0.5647789381757442,0.18688095905546645
+square/retrofit -> stephanenicolas/robospice,-0.7459877776301403,-23.803571762862536,-12.408214528077218
+google/volley -> stephanenicolas/robospice,-0.012284048683576767,-0.390299524593577,-0.17057971699998697
